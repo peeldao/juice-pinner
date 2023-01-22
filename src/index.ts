@@ -4,8 +4,9 @@ dotenv.config({ path: ".env" });
 import axios from "axios";
 import request, { gql } from "graphql-request";
 import { pin, pinFile } from "./infura";
+import * as fs from "fs";
 
-type Project = { metadataUri: string; projectId: string };
+type Project = { metadataUri: string; projectId: string; pv: string };
 
 function listProjects() {
   const query = gql`
@@ -13,6 +14,7 @@ function listProjects() {
       projects(orderBy: projectId, orderDirection: asc, first: 1000) {
         metadataUri
         projectId
+        pv
       }
     }
   `;
@@ -23,24 +25,54 @@ function listProjects() {
   );
 }
 
+function getCachedFilename(project: Project) {
+  return `data/${project.projectId}-${project.pv}.json`;
+}
+
+function cacheMetadata(project: Project, metadata: any) {
+  fs.writeFileSync(
+    getCachedFilename(project),
+    JSON.stringify(metadata, null, 2),
+    "utf-8"
+  );
+}
+
+function getCachedMetadata(project: Project) {
+  const cached = fs.readFileSync(getCachedFilename(project), "utf-8");
+  if (cached) return JSON.parse(cached);
+}
+
+async function getMetadata(project: Project) {
+  const cached = getCachedMetadata(project);
+  if (cached) return JSON.parse(cached);
+
+  const { data: metadata } = await axios.get(
+    `https://jbx.mypinata.cloud/ipfs/${project.metadataUri}`
+  );
+  return metadata;
+}
+
 async function pinProject(project: Project) {
   console.log("pinning project ID", project.projectId, project.metadataUri);
 
   try {
-    const { data: metadata } = await axios.get(
-      `https://jbx.mypinata.cloud/ipfs/${project.metadataUri}`
-    );
+    const metadata = await getMetadata(project);
     const pinMetadata = await pinFile(JSON.stringify(metadata));
     console.log(
-      pinMetadata.data.Hash === project.metadataUri,
-      "validate metadata"
+      "Metadata valid:",
+      pinMetadata.data.Hash === project.metadataUri ? "✅" : "❌"
     );
 
     const logo = metadata.logoUri;
     if (!logo) return;
 
     console.log("pinning logo", logo);
-    await pin(logo.split("ipfs/")[1]);
+    const logoHash = metadata.logoUri.startsWith("ipfs://")
+      ? logo.split("ipfs://")[1]
+      : logo.split("ipfs/")[1];
+    await pin(logoHash);
+
+    cacheMetadata(project, metadata);
   } catch (e) {
     console.error((e as any).response?.data ?? e);
   }
