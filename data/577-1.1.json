@@ -1,0 +1,11 @@
+{
+  "name": "Dance2EarnDAO",
+  "description": "Dance 2 Earn. Bringing dance culture to web3.",
+  "infoUri": "https://dance2earn.xyz",
+  "twitter": "dance2earnDAO",
+  "discord": "https://discord.gg/rnsTbgZfzw",
+  "payButton": "Dance",
+  "payDisclosure": "Thank you for supporting the first D2E platform on web3!",
+  "tokens": [],
+  "version": 4
+}

@@ -1,0 +1,12 @@
+{
+  "name": "studis",
+  "infoUri": "studis.com",
+  "logoUri": "",
+  "description": "we make cool animations",
+  "twitter": "studis",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "pay",
+  "payDisclosure": "pay disclosure text goes here"
+}

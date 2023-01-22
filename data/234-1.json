@@ -1,0 +1,12 @@
+{
+  "name": "CarteraDAO",
+  "description": "This DAO is a macro research community. Token holders will receive access to exclusive research, commentary, and projects. ",
+  "logoUri": "",
+  "infoUri": "cartera.dao",
+  "twitter": "carteraDAO",
+  "discord": "https://discord.gg/FQPNPVmp",
+  "payButton": "Join Cartera",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 3
+}

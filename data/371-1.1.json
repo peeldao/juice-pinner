@@ -1,0 +1,12 @@
+{
+  "name": "Scalpcoin DAO",
+  "infoUri": "",
+  "logoUri": "",
+  "description": "DAO for the creation of scalpcoin, an unreleased coin based on the Proof of Scalp consensus algorithm. Do not \"invest\" with any expectation of future return",
+  "twitter": "_scalpcoin",
+  "discord": "https://discord.gg/D2J4GqRMae",
+  "tokens": [],
+  "version": 3,
+  "payButton": "",
+  "payDisclosure": "This is a speculative investment that will only be worth anything if we raise enough money to create Scalpcoin. Please do not \"invest\" if you will be unhappy if you never get anything in return. "
+}

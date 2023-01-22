@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "description": "test",
+  "logoUri": "",
+  "infoUri": "www.google.com",
+  "twitter": "",
+  "discord": "",
+  "payButton": "poooyah!",
+  "payDisclosure": "you know what you're doing.",
+  "version": 5
+}

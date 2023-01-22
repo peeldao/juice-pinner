@@ -1,0 +1,8 @@
+{
+  "name": "Pool Closed - Please Redeem ",
+  "description": "Represents ownership in 10 SVS Tokens in linked portfolio.  This pool has an exit point of 5.49 per SVS Token.",
+  "infoUri": "https://opensea.io/svspool002",
+  "payText": "CLOSED",
+  "tokens": [],
+  "version": 2
+}

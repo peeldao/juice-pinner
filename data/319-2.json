@@ -1,0 +1,14 @@
+{
+  "name": "yeeeeeety",
+  "infoUri": "",
+  "logoUri": "",
+  "description": "",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "nftPaymentSuccessModal": {
+    "content": "u did it",
+    "ctaText": "yay"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ukrainian Refugee Relief DAO.",
+  "description": "All funds will be used to support immediate relief (housing, transportation, basic necessities) for Ukrainian refugees.",
+  "logoUri": "",
+  "infoUri": "",
+  "twitter": "",
+  "discord": "https://discord.gg/DEyDzzTa",
+  "payButton": "Donate",
+  "payDisclosure": "All assets will be considered a donation to the DAO’s treasury— to be governed by URR DAO — and are not eligible for refunds.",
+  "tokens": [],
+  "version": 3
+}
