@@ -1,0 +1,15 @@
+{
+  "name": "EmpireDAO 2023 Membership Drive",
+  "infoUri": "https://empiredao.xyz/",
+  "logoUri": "ipfs://QmeZTp9nWZartw7ga1S4Ay4kVVkPQi1AptU3TynY1y5h88",
+  "description": "EmpireDAO is the home to 1500+ builders, dozens of artists, and hundreds of community events. Six organizations and dozens of projects were created because of EmpireDAO.\n\nEmpireDAO was founded and financed during a bull run. We were poised for success and sought after from around the world to expand into new spaces. The ripple effects of FTX have upended the industry's progress, including EmpireDAO's plan.\n\nNow EmpireDAO needs your help to keep web3 tech, arts, and financial movements where they belong- at 190 Bowery in the heart of New York City.",
+  "twitter": "EmpireDao",
+  "discord": "https://discord.gg/4fxzWqzM",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Become a 2023 Member",
+  "payDisclosure": "By contributing, you agree to the terms & conditions - https://eth.empiredao.xyz/tc",
+  "nftPaymentSuccessModal": {
+    "content": "Welcome to EmpireDAO!"
+  }
+}

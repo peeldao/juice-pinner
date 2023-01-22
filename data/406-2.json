@@ -1,0 +1,16 @@
+{
+  "name": "The Brigade",
+  "infoUri": "marin-county-swim-association.myshopify.com/collections/all",
+  "logoUri": "ipfs://QmeXRNc3psiyq3kivZNa224ULSrVifAFN2n65t7YTMEKbk",
+  "description": "The Brigade (formally Merch Squad). Print on demand merchandise for DAOs and CC0 communities. Want to add your community? Email: 0xstvg@gmail.com",
+  "twitter": "0xstvg",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payButton": "❤️ ",
+  "nftPaymentSuccessModal": {
+    "content": "You just purchased a dope piece of merch. When you click on the link below you will be redirected to redeem your item. Buyer is responsible for shipping.\nThe link is also in the project description. If you have any issues please email 0xstvg@gmail.com",
+    "ctaText": "Redeem the merch",
+    "ctaLink": "https://marin-county-swim-association.myshopify.com/collections/all"
+  }
+}

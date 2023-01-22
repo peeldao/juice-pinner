@@ -1,0 +1,13 @@
+{
+  "name": "ConstitutionFloorDAO",
+  "infoUri": "https://t.me/ConstitutionFloorDAO",
+  "logoUri": "ipfs://QmXnxktdbv183Kb7wGjEbQPBTZVfcVjooykQcAqPR8XLpj",
+  "description": "Constitution DAO is getting the band back together to attempt to acquire the US Constitution. This time they're issuing NFTs instead of ERC-20s as proof of donation. This DAO is raising funds to sweep the floor!",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "nftPaymentSuccessModal": {
+    "content": "You were awarded a commemorative NFT"
+  }
+}

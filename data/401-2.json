@@ -1,0 +1,11 @@
+{
+  "name": "ChecksDAO",
+  "description": "Group Effort to Fund VV Checks accumulation.\nNOT directly affiliated with Jack Butcher or VV Checks.\nALL funds in the treasury remain accessible to contributors until a future cycle where we decide to withdraw and use.\n\nGoal: Black Check + Single Check Collection\nThen: Do something meaningful with the achievement.",
+  "logoUri": "ipfs://QmeyrY3dBZeycGSDiRYpKqFkrs61dy1ACYce19aEgDrGvG",
+  "infoUri": "checks.art/",
+  "twitter": "ChecksDAO",
+  "discord": "",
+  "payButton": "Check Out",
+  "payDisclosure": "You are contributing to a community effort to get a Black Check.",
+  "version": 5
+}

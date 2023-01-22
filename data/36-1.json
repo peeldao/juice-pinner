@@ -1,0 +1,12 @@
+{
+  "name": "ConstitutionDAO",
+  "infoUri": "https://constitutiondao.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeBqesmJ2Ch8opZGnY1vGhYhnXDZrsY48RXQoq1WczqL1",
+  "description": "We are buying the United States Constitution.",
+  "twitter": "ConstitutionDAO",
+  "discord": "https://discord.gg/EPJnNkP8MX",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Contribute",
+  "payDisclosure": "If we fail to win the auction, you will be able to get refunded. If we win, your tokens will serve as governance tokens for ConstitutionDAO."
+}

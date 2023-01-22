@@ -1,0 +1,11 @@
+{
+  "name": "JuiceboxDAO v1",
+  "description": "Supports projects built using the Juicebox protocol, and the development of the protocol itself. All projects withdrawing funds from their treasury pay a 2.5% membership fee and receive JBX at the current issuance rate. JBX members govern the NFT that represents ownership over this treasury.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmWXCt1zYAJBkNb7cLXTNRNisuWu9mRAmXTaW9CLFYkWVS",
+  "infoUri": "https://snapshot.org/#/jbdao.eth",
+  "twitter": "juiceboxETH",
+  "discord": "https://discord.gg/W9mTVG4QhD",
+  "payButton": "Add juice",
+  "tokens": [],
+  "version": 4
+}

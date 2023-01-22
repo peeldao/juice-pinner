@@ -1,0 +1,12 @@
+{
+  "name": "GrantsDAO",
+  "infoUri": "https://grants.xyz",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZUdSvViNqZ3XkcetZ6SbDpjXroEny6uta94TodSFDrcL",
+  "description": "GrantsDAO is an experimental project to explore the public goods funding mechanism. Our goal is to build a sustainable, healthy, and future-focused community.",
+  "twitter": "TheGrantsDAO",
+  "discord": "https://discord.gg/FA7kqms9EE",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Contribute",
+  "payDisclosure": "Paying GrantsDAO is not an investment—it's a way to support the project. Any value or utility of the tokens you receive is determined by GrantsDAO."
+}

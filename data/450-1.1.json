@@ -1,0 +1,12 @@
+{
+  "name": "Greenhouse",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmWu6ihmo5tixh73CqyKp1t45ECZ4yJTS8QqGcsE1g4wFn",
+  "description": "Build and deploy ASIC heated greenhouses. We will build the proof of concept and reward token holders with mined bitcoin.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "plant",
+  "payDisclosure": ""
+}

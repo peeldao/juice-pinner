@@ -1,0 +1,12 @@
+{
+  "name": "MarsOwnershipDAO",
+  "description": "Opensea, the largest NFT marketplace, is auctioning the Mars Ownership publicly. We're pooling together money to win this auction, to avoid it being monopolized by Elon Musk.The benifits from this project in the future will belong to all donor proportionally.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmdvWE9cxMFxMSPdsPobdmknb7SPmZ7MPFpBEpoLJrRa7h",
+  "infoUri": "https://marsownershipdao.github.io",
+  "twitter": "MarsOwnership",
+  "discord": "https://discord.gg/qZXxn4xjYy",
+  "payButton": "",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 3
+}

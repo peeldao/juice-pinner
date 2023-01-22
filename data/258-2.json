@@ -1,0 +1,11 @@
+{
+  "name": "Juicy Treasure 💦",
+  "description": "Juicebox Project Funding Cycles are controlled by the address that owns the Juicebox Project's NFT. This project's NFT will be listed for auction. The buyer will be able to reconfigure a new Funding Cycle to extract the ETH in the treasury to their own wallet.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZM9jZh56RH6RtTfCsFkAP2MFAReLwvnsGPBiRXDL2pXi",
+  "infoUri": "",
+  "twitter": "",
+  "discord": "",
+  "payButton": "Juice",
+  "payDisclosure": "This project will be auctioned to the highest bidder. The winner of the auction will be able to reconfigure the project as they choose, meaning ETH contributed to this project will be under their exclusive control. ",
+  "version": 5
+}

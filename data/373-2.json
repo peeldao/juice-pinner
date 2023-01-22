@@ -1,0 +1,15 @@
+{
+  "name": "JuiceTool",
+  "infoUri": "https://juicetool.xyz/",
+  "logoUri": "ipfs://QmNP9piQ8iKWd9ewaftvwqmkTNN93vZFnUdvrBTsQsRWCc",
+  "description": "Funds dedicated for running JuiceTool website. \nDeployment cost: $30 for Vercel, $10 for GitHub Copilot and some gas.\nDev cost are covered by twodam's payout from JuiceboxDAO for now.",
+  "twitter": "twodam_eth",
+  "discord": "https://discord.gg/2A7YmMEU7Z",
+  "tokens": [],
+  "version": 5,
+  "nftPaymentSuccessModal": {
+    "content": "Thank you for the support! JuiceTool are still under active development, feel free to browse current website!",
+    "ctaText": "Browse the website",
+    "ctaLink": "https://juicetool.xyz/"
+  }
+}

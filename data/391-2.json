@@ -1,0 +1,11 @@
+{
+  "name": "JohnnyDAO V3",
+  "infoUri": "www.givewell.org/top-charities",
+  "logoUri": "ipfs://QmQfwzfqdkNhsr8Sfa3XzVEVnQ7rZYdT6QshytZ3WQP2kv",
+  "description": "Frontend engineer @JuiceboxDAO / @Peel. Donating 10% of my pre-tax income to cost-effective charities (Givewell Maximum Impact fund).\n\nI receive my paycheck through this project, which splits 10% of all payments to Givewell and 90% to my personal wallet (see 'Funding distribution' below). ",
+  "twitter": "johnnyD_eth",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payDisclosure": "10% of your payment will go to Givewell, 49.5% to JohnnyD, 38% to the taxman and 2.5% to fees 💸"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mosaic DAO",
+  "description": "A DAO to bid on the Mosaico NFT auction, a mixed-reality art exhibit at ETH Rio 2022 featuring 16 Brazilian artists. The Foundation auction opens 19 March, with the winner entitled to receive all sixteen 1/1 NFTs in exchange for the Mosaico NFT.\n\nAll primary and secondary sales go to the artists (70%), four societal and ecological foundations in Brazil (20%), and ETH Rio builders (10%).\n\nMosaic DAO commits to bid a min of 5 ETH up to a max of 10 ETH to win the auction, with an extra 0.2 ETH reserved for setting up our ENS name and Gnosis multisig.\n\nThe current funding cycle ends 31 March, 11:59 pm Rio time, at which point the DAO will place a bid on the auction.\n\nMOSAIC holders will get governance rights for future exhibits. Let’s expand the Mosaic to future events, cities, and communities!\n\nGallery — https://hubs.mozilla.com/b3tJJ7s/mosaico\nAuction — https://foundation.app/@neodaoist/mosaic/1\nSlicer — https://slice.so/slicer/8\n\n>>> Mosaico Brasileiro <<<\nCuration // Connection",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmQ9W5mNeaYx5FmUP58oRk2XEMt7pzY28q2aAFrGzZmM6F",
+  "infoUri": "https://slice.so/slicer/8",
+  "twitter": "",
+  "discord": "https://discord.gg/ykbKrJ38fZ",
+  "payButton": "Contribute",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 4
+}

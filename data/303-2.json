@@ -1,0 +1,12 @@
+{
+  "name": "Defifa",
+  "infoUri": "defifa.net",
+  "logoUri": "ipfs://QmZmArPrRDbZAP6bcqbj1gqgYnxkKKxjSD4FzMmsvDoK45",
+  "description": "Defifa is an NFT treasury game. The game's treasury will be programmed by the community to attest to the outcome of the 2022 FIFA World Cup. Redeem this token after the final game for its share of the treasury, or hold it forever. Defifa is built on Juicebox, secured by Ethereum.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Play",
+  "payDisclosure": "This payment will be processed as participation in Defifa gameplay according to standard Defifa contractual rules. Play at your own risk."
+}

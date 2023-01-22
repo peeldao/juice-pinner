@@ -1,0 +1,12 @@
+{
+  "name": "MegaMutantDAO",
+  "infoUri": "https://www.megamutantdao.com/",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmYifngmDSKK9BTY4tM2asNDUKi6zqBY5ALou8SkBWtg8J",
+  "description": "We want to see all the MegaMutants, let's make it happen.",
+  "twitter": "MegaMutantDao",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Ape In!",
+  "payDisclosure": "We cannot guarantee any particular outcome or a positive return on your investment.\n\nIn the event that we do not secure enough funds to purchase the M3 serum or are unable to do so for any other reason, we will do our best to refund contributors their contributions less a nominal amount to cover the gas required to do so.\n\nPROCEED AT YOUR OWN RISK"
+}

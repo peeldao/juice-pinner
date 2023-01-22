@@ -1,0 +1,12 @@
+{
+  "name": "StraDAOvarius",
+  "infoUri": "https://stradaovarius.xyz",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeFdvG4phGWBfEzePfEYgxuzSxFZ78kkCvuLQu6PZX1fw",
+  "description": "We are buying the Hellier Stradivarius violin",
+  "twitter": "StraDAOvarius",
+  "discord": "https://discord.gg/5FfRvHte",
+  "tokens": [],
+  "version": 4,
+  "payButton": "Contribute",
+  "payDisclosure": "By signing a transaction and contributing to the project, you confirm that you have read and accept the Terms and Conditions as contained at:\n\nhttps://www.stradaovarius.xyz/terms-and-conditions"
+}

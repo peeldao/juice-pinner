@@ -1,0 +1,11 @@
+{
+  "name": "TileDAO",
+  "description": "Receives all revenue from the Tiles primary sale.",
+  "logoUri": "https://gateway.pinata.cloud/ipfs/QmR6F5AoJCPTtmwqvs6LRgg7pMwMj8sFNQGGCFrz36FaHS",
+  "infoUri": "https://tiles.art",
+  "twitter": "Tile_DAO",
+  "discord": "https://discord.gg/yFwgzMcYrU",
+  "payDisclosure": "Paying the treasury here will earn you TILE ERC-20, but will not mint you a Tile NFT! If you'd like to mint a Tile, do that at https://tiles.art (you'll still earn TILE ERC-20).",
+  "tokens": [],
+  "version": 3
+}

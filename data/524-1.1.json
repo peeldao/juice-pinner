@@ -1,0 +1,12 @@
+{
+  "name": "WarcraftDAO",
+  "infoUri": "TPA",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmPSs4GsLsEfgF3Y1xH9tfwBH9d49WejrQgAHuBd7ZptJi",
+  "description": "WarcraftDAO is a DAO organization established by WOW players around the world. It aims to build a distributed WOW IP ecosystem in which all players can benefit from it.The founding team is composed of early contributors from PeopleDAO，AssangeDAO, MoonDAO, and the core members of the Nostalrius Server of WOW  who had jointly applied to Blizzard for authorization to open that private server.",
+  "twitter": "WarcraftDAO",
+  "discord": "https://discord.gg/pbtcVBNXvw",
+  "tokens": [],
+  "version": 4,
+  "payButton": "For WOW Players",
+  "payDisclosure": "Those who donate 1 ETH or more will be organized into VIP Group to share all the resources of the project."
+}

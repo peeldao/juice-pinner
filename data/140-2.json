@@ -1,0 +1,12 @@
+{
+  "name": "MOON WAVE TREASURY",
+  "infoUri": "https://moon-wave.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmQ6FHWo52jCHQWU89M8TDn5TXvUaaTGjrmC7nmQKDK4du",
+  "description": "MOON WAVE is twin-token project on ERC20 and BSC. MOON WAVE on ERC20 auto rewards in USTC while simultaneously auto-burning USTC. MOON WAVE on BSC auto rewards in LUNC while simultaneously auto-burning LUNC. The ultimate goal of the project is to repeg USTC to the dollar so that it is a stable coin once-again. Doing this serves as a quadruple utility for the project. The auto-rewards in LUNC and USTC as well as the auto-burn of both. This treasury will serve to not only pump the chart of the project on both chains, but it will also serve as a source of funding for future development of the project. ",
+  "twitter": "MoonWaveToken",
+  "discord": "",
+  "tokens": [],
+  "version": 4,
+  "payButton": "",
+  "payDisclosure": ""
+}

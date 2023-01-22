@@ -1,0 +1,12 @@
+{
+  "name": "TOK-DAO",
+  "description": "TOK is a decentralized encrypted messenger  with over 10 million users. The community has achieved complete decentralized management. TOK Tokens already have many application scenarios, such as TOK-DAO to manage community violation pictures, etc. There are many ultra large  Public groups (100,000+   members), paid groups, TOK blog and other functions all need to use TOK's Tokens. TOK is both a functional Token and an equity Token.\n For details of TOK Fundraising Plan, please refer to TOK official website and Twitter, as well as TOK official group.\n",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmbK1bMNFmAjKHEp5He9LrQpwju2d83Mkdfk1sdvaBwNS2",
+  "infoUri": "https://tok001.com/",
+  "twitter": "TokMessenger",
+  "discord": "",
+  "payButton": "BUY",
+  "payDisclosure": "The price of TOK Tokens in the first phase is the lowest, and the contract is based on the number of TOK Tokens exchanged for 1 ETH. The amount of each ETH exchanged for TOK Tokens decreased gradually, and the decrease in each period is 20%. For example:\n      1st Phase, 1 ETH can be exchanged for 1,000,000 TOK Tokens,\n      2nd Phase, 1 ETH can be exchanged for 800,000 TOK Tokens,\n      3rd Phase, 1 ETH can be exchanged for 640,000 TOK Tokens, and so on.\n",
+  "tokens": [],
+  "version": 3
+}

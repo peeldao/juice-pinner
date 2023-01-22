@@ -1,0 +1,12 @@
+{
+  "name": "Buy Punk",
+  "infoUri": "https://opensea.io/collection/low-effort-punks",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmRqKfemrHfjhdM5zt5JvqqhG9PszJUPmpYZ1zYZZkiJe9",
+  "description": "This project purchases Low Effort Punks from OpenSea",
+  "twitter": "loweffortpunks",
+  "discord": "https://discord.gg/awBDndGGDb",
+  "tokens": [],
+  "version": 3,
+  "payButton": "buy punk",
+  "payDisclosure": "This DAO token does not promise ROI (Return of Investment), its purpose is to collect Low Effort Punks"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Spice DAO",
+  "description": "Those who controls the $SPICE controls the DAO.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmPFH9D2iueH9N4DX74nssQ9ZfRx8GggLfaTr1UqXyrtBG",
+  "infoUri": "https://dune.foundation",
+  "twitter": "TheSpiceDAO",
+  "discord": "https://discord.gg/u4A6UKVpjn",
+  "payButton": "Contribute",
+  "payDisclosure": "$SPICE token will be provided in return for contributions to SPICE DAO, serving as governance token in proposals and representing a share in the ownership of the DAO and its assets.",
+  "tokens": [],
+  "version": 3
+}

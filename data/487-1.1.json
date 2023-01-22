@@ -1,0 +1,12 @@
+{
+  "name": "BabyoctopusDAO",
+  "infoUri": "https://www.babyoctopusdao.com/",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmY2doTmo5XwzEudoyTpsFp7bGnXeZWcGVoiRanuwYBBE5",
+  "description": "Baby octopus currently has its own contract destruction function to repurchase baby octopus tokens, and can automatically obtain BNB dividends for each transaction and transfer each transaction.LP can be automatically added to the pool to increase fluidity and pool thickness,BabyoctopusDAO can automatically burn, distribute dividends, and mint stable currency OUSD, similar to the Luna stable currency mode,\nrefund plan\nNo project can be 100% successful, including Baby octopus DAO.\nIf the project fails for any reason, the community will initiate a proposal, and if the vote is passed, a refund process will be initiated.\nWe will calculate the financing situation of the DAO at that time and the remaining amount of the treasury, and take a snapshot of the investment address at that time.\nEveryone can get a fair refund, if the financing fails, an investment form will be posted on Twitter and we will check the address.",
+  "twitter": "https://twitter.com/BabyOctopus_DAO",
+  "discord": "https://discord.gg/yBcyPCcps5",
+  "tokens": [],
+  "version": 4,
+  "payButton": "",
+  "payDisclosure": "No project can be 100% successful, including Baby octopus DAO.\nIf the project fails for any reason, the community will initiate a proposal, and if the vote is passed, a refund process will be initiated.\nWe will calculate the financing situation of the DAO at that time and the remaining amount of the treasury, and take a snapshot of the investment address at that time.\nEveryone can get a fair refund, if the financing fails, an investment form will be posted on Twitter and we will check the address."
+}

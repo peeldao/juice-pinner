@@ -1,0 +1,21 @@
+{
+  "name": "PonziDAO",
+  "description": "PONZI DAO - Le capital sera investi dans le community wallet de la DAO : ponzidao.eth",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmcFrWkrnGmUKp4q2cpmW71VrYMXQCkC8LFgWuipJ1AyG2",
+  "infoUri": "",
+  "twitter": "ponzi_dao",
+  "discord": "https://discord.gg/fZJ4grMbHU",
+  "payButton": "DONT CONTRIBUTE ",
+  "payDisclosure": "High risks, High rewards...",
+  "tokens": [
+    {
+      "type": "erc20",
+      "value": "0x6d46ed6a422d7de0215958c23de185c638aff9b0"
+    },
+    {
+      "type": "erc20",
+      "value": ""
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Easy Money Movie",
+  "infoUri": "http://easymoneymovie.xyz/",
+  "logoUri": "ipfs://Qmb31mppLikdxqjQ7yuHofAxW2gefiCkpvEKkPGED2rthv",
+  "description": "A desperate man attempts a robbery with an old friend. Everything goes wrong. Be part of the first African movie funded with NFTs. Own a share of the IP and future profits by contributing. We need at least $10k to bring this movie to life! LFG!!! ",
+  "twitter": "easymoneymovie",
+  "discord": "https://discord.com/invite/8Vt2bhmPvZ",
+  "tokens": [],
+  "version": 5,
+  "nftPaymentSuccessModal": {
+    "content": "You ROCK! Thank you for helping us get this movie made!"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bounty for JB Payments without connecting pre-existing wallet.",
+  "description": "This treasury will be routed towards the person who first present to @me_jango a working prototype of making a payment to a Juicebox treasury without connecting a pre-existing wallet, generalized to all JB projects.",
+  "logoUri": "ipfs://QmRzUAjKFCwrFgMhQT2AHcQX2jUYrkPUgvtNwTnSVb1Npk",
+  "infoUri": "",
+  "twitter": "me_jango",
+  "discord": "",
+  "payButton": "Add juice",
+  "payDisclosure": "You're giving away your ETH, ser.",
+  "version": 5
+}

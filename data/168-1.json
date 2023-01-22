@@ -1,0 +1,12 @@
+{
+  "name": "Slice",
+  "description": "Supports the development of the Slice protocol. Periodically receives fees from slicers.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeTKe23ZfNLELKacoWVQcuM519iajDScpjb9yeGCcy9nB",
+  "infoUri": "https://slice.so",
+  "twitter": "slice__so",
+  "discord": "https://discord.gg/CdyHUzdZks",
+  "payButton": "🍰",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 4
+}

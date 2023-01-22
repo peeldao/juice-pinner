@@ -1,0 +1,9 @@
+{
+  "name": "NFT Rio",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmdLBtvKCVLeYHztCzi3a5Hm7mo5P1cXLRtQetT21vd9ka",
+  "description": "Collectively funding the biggest NFT conference in Brazil.",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Bora!",
+  "payDisclosure": "This project doesn’t sell ownership over the event. The token issued here will be used as a benefit currency for buying access and products inside the event."
+}

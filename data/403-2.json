@@ -1,0 +1,11 @@
+{
+  "name": "Gabriel Haines' Rants For You",
+  "description": "need a rant? gabriel has you covered\n\nhow it works: \n- mint a Roast or a Pep Talk NFT\n- write the subject in the Memo at checkout\n- i'll create a video just for you\n\nnote: i will not shill shitcoins. do not buy rant tokens to get me to shill your shitcoin.",
+  "logoUri": "ipfs://QmRGtUrGCB76XD614sP8r5MSVGcFnEJGVVo8QW6YNQ2Nym",
+  "infoUri": "www.youtube.com/c/gabrielhaines?sub_confirmation=1",
+  "twitter": "gabrielhaines",
+  "discord": "",
+  "payButton": "Buy",
+  "payDisclosure": "By contributing to this project you are supporting my work. No promises, guarantees, warranty implied. This is not an investment and you will not see a financial return on these payments.",
+  "version": 5
+}

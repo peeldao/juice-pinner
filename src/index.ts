@@ -38,17 +38,23 @@ function cacheMetadata(project: Project, metadata: any) {
 }
 
 function getCachedMetadata(project: Project) {
-  const cached = fs.readFileSync(getCachedFilename(project), "utf-8");
-  if (cached) return JSON.parse(cached);
+  try {
+    const cached = fs.readFileSync(getCachedFilename(project), "utf-8");
+    if (cached) return JSON.parse(cached);
+  } catch (e) {
+    return null;
+  }
 }
 
 async function getMetadata(project: Project) {
   const cached = getCachedMetadata(project);
-  if (cached) return JSON.parse(cached);
+  if (cached) return cached;
 
   const { data: metadata } = await axios.get(
     `https://jbx.mypinata.cloud/ipfs/${project.metadataUri}`
   );
+  cacheMetadata(project, metadata);
+
   return metadata;
 }
 
@@ -71,8 +77,6 @@ async function pinProject(project: Project) {
       ? logo.split("ipfs://")[1]
       : logo.split("ipfs/")[1];
     await pin(logoHash);
-
-    cacheMetadata(project, metadata);
   } catch (e) {
     console.error((e as any).response?.data ?? e);
   }

@@ -1,0 +1,12 @@
+{
+  "name": "HelpUkraineDao",
+  "infoUri": "https://en.wikipedia.org/wiki/Ukraine",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmSWcwqMUeCUWtkU1R9bA8j8tWYTX3cVHyrnGxmVkqsxwy",
+  "description": "The war will always be a war, the Ukraine people need your help!",
+  "twitter": "https://twitter.com/Ukraine",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Help",
+  "payDisclosure": "The collected ETH will be exchanged to the US dollar and all donated to the United Nations Nonema Department."
+}

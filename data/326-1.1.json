@@ -1,0 +1,12 @@
+{
+  "name": "PresidentDao",
+  "infoUri": "https://presidentdao.org",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmTbZpvipmfbh2Sky2G2tQpHkvQ8sDwYu2b9FUZQxRkB3h",
+  "description": "",
+  "twitter": "presidentdao",
+  "discord": "https://discord.gg/Gb5hrrw8rk",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Vote",
+  "payDisclosure": ""
+}

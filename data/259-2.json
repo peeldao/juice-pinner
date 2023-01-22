@@ -1,0 +1,12 @@
+{
+  "name": "NanoNouns ⌐◨-◨",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmQJndZQmYzh7N1wc5mVwUxLJQTUfi5gFck3yBj6iMqK42",
+  "description": "Creating a Nouns-native currency by fractionalizing Nouns into Nounlets and Nounlets into NanoNouns",
+  "tokens": [],
+  "version": 5,
+  "infoUri": "https://linktr.ee/nanonouns",
+  "twitter": "NanoNouns",
+  "discord": "https://discord.com/invite/53wcjzuDJq",
+  "payButton": "Contribute ⌐◨-◨",
+  "payDisclosure": "Your ETH contribution is used to purchase Nouns, fractionalize Nouns into Nounlets, purchase Nounlets, and fractionalize Nounlets in NanoNouns."
+}

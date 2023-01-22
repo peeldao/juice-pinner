@@ -1,0 +1,11 @@
+{
+  "name": "SafeWord",
+  "description": "Given all the exploits done trough Discord communities to crypto projects recently, we are building an integration that will allow people to sign their messages in Discord using their wallets, as proof-of-send.\n\nIn the last 6 months millions have been stolen in ETH and NFTs trough phishing by hacking into admin discord accounts. Our goal is to make possible for project creators to ensure trough wallet signature that the message is theirs, not only made trough their discord.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmVDw1yULDPvQWgge76FXeQoZ5fEcV1JdxYzkdhCdAyecL",
+  "infoUri": "http://www.thesafeword.xyz/",
+  "twitter": "",
+  "discord": "https://discord.gg/F69gYrAbdq",
+  "payButton": "Support",
+  "payDisclosure": "This is not an investment where you should expect financial return. We are building a tool for public good. The goal is to develop the tool and make it available for all the users that might need it. We appreciate deeply your support, but there are no plans at this time for this project to have financial return. ",
+  "version": 4
+}

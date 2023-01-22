@@ -1,0 +1,15 @@
+{
+  "name": "Juicelerator",
+  "infoUri": "",
+  "logoUri": "ipfs://QmaLiSwTbCwfYtbv6BbkDvsWXUaAKQE6NLgr3QzgAc6ZmN",
+  "description": "I want to help projects using Juicebox Protocol to structure their community, tokenomics, operations and partnerships. \n\nFirst goal: $2k - which will be used to pay for organizing content and guides in the 4 areas mentioned above.\n\nSecond: $4k - paying for the costs of a first test project, which the token holders will get votes to choose in case we have similarly qualified projects.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Vrum!",
+  "payDisclosure": "This project offers no return for donators so far, it is an experiment to find out what type of support can increase the success rate of projects using Juicebox. ",
+  "nftPaymentSuccessModal": {
+    "content": "You'll probably get to know if this ever does something, but very likely will get you access to content and Jui Fellows"
+  }
+}

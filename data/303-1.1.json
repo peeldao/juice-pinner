@@ -1,0 +1,12 @@
+{
+  "name": "Heritage DAO ($HDAO)",
+  "description": "SubDAO of Crayon.Finance | We are buying the National Treasures of South Korea.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmXDfWx5Q1cvdyMCL2NHc3sKHtUUTDa2VFWhKCCDjipQsu",
+  "infoUri": "https://hdao.crayon.finance",
+  "twitter": "CrayonFinance",
+  "discord": "https://discord.gg/57kDxuekcq",
+  "payButton": "Contribute",
+  "payDisclosure": "The owner will never use any reserve tokens issued according to users’ participation.\n\nThe reason for setting the high reserve was to control the distribution of tokens, and the owner will never claim it.\n\nTo trust this, we will deploy multisig to the owner’s account, so that owner have to apply multisig in the HDAO claim process. Also, we will claim once a day at a fixed time and burn those tokens.",
+  "tokens": [],
+  "version": 3
+}

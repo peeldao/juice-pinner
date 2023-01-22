@@ -1,0 +1,12 @@
+{
+  "name": "TheBards Protocol - The Decentralized Content Curation Economy",
+  "infoUri": "https://thebards.xyz",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmPngzHndJMAUgVFeJdKeKNvT7imeocw4sFMJ3zZ9U8Uba",
+  "description": "Digital service providers (DSPs) often act as curators, who grabbed most of the user's interests through channel advantages. In order for everyone to freely choose their role (creator or curator or delegator or developer) and benefit from it in ownership economy, we introduce TheBards, a fully decentralized NFTs curation economy protocol built with public blockchain infrastructure and other decentralized technologies.\nWe believe that curation is trying to tell a story about someone's work, life, entertainment, skills, etc. TheBards is a Creator + Curation + NFT economy system. Smart contracts specify the interaction between the four roles (like creator, curator, delegator, developer) and the fair distribution of profits in the system. \n",
+  "twitter": "ThebardsDao",
+  "discord": "https://discord.gg/vTSy4Enm",
+  "tokens": [],
+  "version": 4,
+  "payButton": "To be the bards",
+  "payDisclosure": ""
+}

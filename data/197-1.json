@@ -1,0 +1,12 @@
+{
+  "name": "Offer Bot DAO",
+  "description": "Build and fund an Opensea offer bot to buy and sell blue chip NFTS.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmcRMxMD4PHNzftHsdZaFWRBND3HGHHAQtYUjqpvdb49Vi",
+  "infoUri": "TBD",
+  "twitter": "offerbotdao",
+  "discord": "https://discord.gg/uJA3KxkK",
+  "payButton": "Add to Offer Bot DAO",
+  "payDisclosure": "Offer Bot DAO contracts are unaudited, and may be vulnerable to bugs or hacks. All funds moved through Offer Bot DAO could be lost or stolen. Offer Bot DAO is not liable for any losses by projects or their supporters.",
+  "tokens": [],
+  "version": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "The Simulation",
+  "infoUri": "thesimulation.io",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmXvw2t9LQkkvub2vmkuJh18czhbQgzJdBUP7YEEbyd6d4",
+  "description": "We are building the world's first crypto monument. Join our NFT whitelist by minting our community token $DOGENUBIS",
+  "twitter": "simulationdao",
+  "discord": "discord.gg/cves9rAtqb",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Mint $DOGENUBIS",
+  "payDisclosure": "$DOGENUBIS is a community governance token that will whitelist you for our upcoming NFT drop and give you access to exclusive private network content. "
+}

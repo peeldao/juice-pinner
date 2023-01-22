@@ -1,0 +1,12 @@
+{
+  "name": "DaoSwap",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmNTNUqfoPvUd2TRBumqzFAv8DHwfM51fotPGuG2nRJVdm",
+  "description": "DaoSwap is a swap platform belonging to all the blockchain practitioners. DaoSwap will make reasonable use of every donation and make every effort to build a swap platform with DAO governance as the core.\nIn the future, all donors will trade on DaoSwap for free forever, \nchains supported by DaoSwap in the future and the cooperative parties will all be determined by the DAO voting.\nOf course, if you want, you can redeem your donated ETH at your cost price at any time.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Contribute",
+  "payDisclosure": "Make trading easier by DAO - DaoSwap"
+}

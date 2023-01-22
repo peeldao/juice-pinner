@@ -1,0 +1,12 @@
+{
+  "name": "TronzBank",
+  "infoUri": "https://www.tronzbank.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmdMuGY6fLoTATSFjXTzzbsA877K5rHnj8WkmqYVZyMyDW",
+  "description": "TronzBank, Fully-Decentralized Privacy Wallet on Tron Network, shields your transfers based on Zero-knowledge Proof and Tronz Protocol. Tronz Protocol is the official-supported privacy protocol of Tron Network. For users, TronzBank is just like a regular wallet. Once you have put money into TronzBank, you can make shielded & secure transfers with others.\nTronzBank is live on TRON Mainnet but we team hope that it can be deployed on Ethereum which need community's donates to finish it.",
+  "twitter": "TronzBank",
+  "discord": "https://not-have-discord-yet",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Donate",
+  "payDisclosure": "THANKS FOR YOUR FUNDS TO MAKE PRIVACY GREAT AGAIN IN WEB3 WORLD"
+}

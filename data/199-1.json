@@ -1,0 +1,12 @@
+{
+  "name": "MoonDAO",
+  "description": "We're literally going to the moon 🚀 Help us send a fren to space in 2022! Learn more: https://mirror.xyz/pmoncada.eth/uuufJem6v9X-fW3Bu4v1p_3qA5gPf96lZelHUM97BC8",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmUFhUbmB59tq36j7YhUF1UvCTzD6XPkFkWVS6wU1MukN3",
+  "infoUri": "https://moondao.com",
+  "twitter": "OfficialMoonDAO",
+  "discord": "discord.gg/5nAu7K9aES",
+  "payButton": "Buy $MOONEY",
+  "payDisclosure": "$MOONEY is a governance token, there is no expectation of profit. The token will be used to collectively decide the fate of MoonDAO!",
+  "tokens": [],
+  "version": 3
+}

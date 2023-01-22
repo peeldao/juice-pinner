@@ -1,0 +1,13 @@
+{
+  "name": "Fallen.DAO",
+  "infoUri": "fallen.services",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qmco2Q8YNWgBTnmaXVckgXQxnMW7F82ThAuoFFzHAhLu6j",
+  "description": "Fallen.Services is a Web3 application that was created for privacy purposes. It aims to return to the privacy and to the essence of Blockchain technology, in a world where our data is cheap as dirt. Developed by an anonymous team, Fallen Mail and Fallen Message will take our privacy to the next level. Fallen Mail, which will use the decentralized storage system with filecoin, encrypts all content in an end-to-end cryptographic format and then destroys it. Even if any data is found later, access is not allowed without the Private Key.",
+  "twitter": "FallenServices",
+  "discord": "https://discord.com/invite/QafXq23",
+  "tokens": [],
+  "version": 4,
+  "payButton": "Stay Private",
+  "payDisclosure": "The donations will be spent on the development of the project and meeting the needs of the team.",
+  "archived": true
+}

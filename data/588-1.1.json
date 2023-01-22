@@ -1,0 +1,13 @@
+{
+  "name": "NeonDao",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmafpSPNnH2Bwii6LyxLcgvHX64xTbLhi1HeeQfp1M19um",
+  "description": "去中心化金融（DeFi）的願景在過去幾年中已經開始實現，隨著以太坊等公鏈的出現實現了去中心計算，Filecoin（FIL）和 Swarm（BZZ）實現了去中心化存儲和雲端計算，比特幣和各種代幣項目則促進了 P2P 傳輸價值，以及像Blockstack（STX）和 Ethereum Name Service（ENS）去中心化域名註冊為內容和身份提供用戶可訪問的名稱。這些元素構成了去中心化應用程序 (DApps) 的基建，但目前 DApps 仍然缺乏以開放和去中心化的方式實現 Social Finance和 數據雲的能力。NEON.ip 則為了實現分散式流媒體以及數據雲的運算效能而生。\n\n隨著 IoT的迭代，影像技術⼀直是最消耗頻寬的電信傳輸產品，且所需的頻寬越來越⼤，近年的串流應⽤ (Streaming Application)、直播 (Live Streaming)、虛擬實境 (AR/VR) 都是頻寬需求量極高的應⽤。 根據 Messari Research 一份研究指出，其串流應用、直播、虛擬實境聚合形成的 Social Finance 領域在未來五年內潛在規模將超 3.5 兆美金，環比當前市場規模增長 7,239.03 %，年複合成長率(CGAR) 預測將成長⾄ 62.8%。\n\nNeon.ip 白皮書將主要關注 NEON 加密通證模型細節，而不是商業案例，並從驗證節點（礦工）、持幣者、串流主以及社交用戶角度出發。另一方面，一個完全去中心化的 P2P 解決方案，其中驗證節點貢獻自己計算能力及帶寬以提供串流主的協作能力，將從傳統流媒體的中心化過渡到近乎去中心化的商業本質，其驗證節點（礦工）及串流主的獲利模式將大幅提高。",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 4,
+  "archived": false,
+  "payButton": "Good Lucky 100X !",
+  "payDisclosure": "Good Lucky 100X !"
+}

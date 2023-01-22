@@ -1,0 +1,11 @@
+{
+  "name": "Gobbler Gardeners",
+  "description": "A DAO of Gobblers who garden. Members must have a Gobbler with at least one the following traits:\n\n1. Background: Park\n2. Bottom: Fig Leaf\n3. Left Arm: Plant\n4. Right Hand: Tree or Circular Saw",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmPKd6otwbFriYfbrGjpmRZ5cVdAabviswVH1bcze5SHdj",
+  "infoUri": "https://artgobblers.com/",
+  "twitter": "artgobblers",
+  "discord": "https://discord.gg/artgobblers",
+  "payButton": "",
+  "payDisclosure": "",
+  "version": 5
+}

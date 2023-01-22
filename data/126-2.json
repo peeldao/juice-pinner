@@ -1,0 +1,11 @@
+{
+  "name": "chaingas",
+  "description": "web2~web3的桥梁，不可否认的是web3的大门很难打开，或者说web3的大门目前只能给web3极客使用，基础的cex otc方式根本无法解决小客户体验式入场，一个简简单单撸空投可能90后需要40分钟从繁琐的下载交易所→kyc→验流水→提币→钱包，如果是70后80后呢，现在40后都会玩智能手机，是因为40后自学吗，并不是而是传统web2的破圈项目去直达40后的交互方式，同样chaingas就是web2~web3中不可或缺桥梁\n\nchaingas的创始人是一个十足的lose，曾经他有870万$因为自己的失误亏完了90%，剩余的100万全部给了币圈另一个天才少年“凉兮”，web3亡我不死，chaingas能够在30秒内使一个完全不懂币圈的人获得第一笔eth。chaingas.shop等待您的体验",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmPjTR2AxZjXDdePD8GreFX3vq2LXCHMxhiumoHYdWwPvx",
+  "infoUri": "chaingas.shop",
+  "twitter": "chain_gas",
+  "discord": "https://discord.gg/qyPQrrB4Fz",
+  "payButton": "支付后你会有一个股东身份",
+  "payDisclosure": "chaingas在收到您的捐赠后，将会根据最终获得金额编写一个智能合约，所有的币将会作为您的股权凭证，同时chaingas将根据您持有的代币数分配总股份，同时每个月15日您都将收到chaingas的盈利分红。注意事项：若最终无法达到5ETH的捐款额度将会退还所有ETH",
+  "version": 4
+}

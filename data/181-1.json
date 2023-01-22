@@ -1,0 +1,17 @@
+{
+  "name": "inflationlessDAO",
+  "description": "We are aiming to be the largest contributor CitaDAO.io's Genesis building tokenization - 56 Queen St Cardiff IRO. We shall rent out the building to the rent seekers!! We will own real estate to fight inflation!!",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmRbSpYbTfcCGX5tGsP42Vcrkr5KVUNCcYf64wVcT1MbjF",
+  "infoUri": "inflationlessdao.com",
+  "twitter": "inflationless",
+  "discord": "bit.ly/inflationless",
+  "payButton": "Contribute",
+  "payDisclosure": "The fund will be used to commit to CitaDAO.io real estate tokenization project, 56 Queen St Cardiff IRO - we shall rent out the building to the rent seekers!",
+  "tokens": [
+    {
+      "type": "erc20",
+      "value": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    }
+  ],
+  "version": 3
+}

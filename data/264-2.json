@@ -1,0 +1,12 @@
+{
+  "name": "Price Feed",
+  "infoUri": "https://github.com/slice-so/uniswap-v3-price-feed",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeTKe23ZfNLELKacoWVQcuM519iajDScpjb9yeGCcy9nB",
+  "description": "Decentralized price feed based on Uniswap V3 TWAP oracles, made by Slice. \nhttps://slice.so/slicer/22",
+  "twitter": "slice__so",
+  "discord": "https://discord.gg/c7puDHjgMU",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Support devs",
+  "payDisclosure": "All ETH sent to the treasury are sent to the project's developers and split proportionally to their contributions."
+}

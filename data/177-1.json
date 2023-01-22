@@ -1,0 +1,12 @@
+{
+  "name": "elfDAO",
+  "description": "This holiday season, we elves at elfDAO are on a mission to get gifts to kids in need. We're all gonna buy gifts! Donate 0.1 ETH or more to claim your Elf NFT. Donate 0.5 ETH or more to claim your Reindeer NFT. The top 5 contributors at the end of the fundraising period will be able to claim their one-of-a-kind Santa NFTs.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmWAMgb42V8515itfuA1GFh6iKqzC748ZeaoEbyBjURcyS",
+  "infoUri": "https://elfdao.com",
+  "twitter": "elf_DAO",
+  "discord": "https://join.elfdao.com/",
+  "payButton": "Contribute",
+  "payDisclosure": "$GIFT is a governance token, and there is no expectation of profit. The tokens’ sole purpose is to grant voting rights for elfDAO’s use of funds.",
+  "tokens": [],
+  "version": 3
+}

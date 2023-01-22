@@ -1,0 +1,12 @@
+{
+  "name": "TolkienDAO",
+  "infoUri": "https://tolkiendao.xyz/",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qma2N7i9mRwd9CH84wWKGacemGxoZzxzW5WZu197sEMug5",
+  "description": "We are gathering the fans to fund together the purchase of licensing rights to some of Tolkien's works for video-games, movies, merchandising and more.\n\nOur configurations are set that if we fail to acquire the rights, everyone can claim their money back, minus the transaction fees.\n\nDonating to the project gives you tokens, those tokens are going to have governing power on a delegate governance system for choosing what to do with such rights if we get them.",
+  "twitter": "DaoTolkien",
+  "discord": "https://discord.gg/nmVHN8dfwS",
+  "tokens": [],
+  "version": 3,
+  "payButton": "You have my support!",
+  "payDisclosure": "THIS IS NOT AN OFFICIAL PROJECT BY THE TOLKIEN ESTATE, WE DO NOT CURRENTLY OWN ANY RIGHTS FOR LICENSING TOLKIEN'S WORK.\n\nThis project's goal is to acquire the licensing rights, but we are just a group of fans, gathering together to try and have it as a collective instead of a big corporation."
+}

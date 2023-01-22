@@ -1,0 +1,12 @@
+{
+  "name": "ArtifactDAO",
+  "description": "We are buying a Flown Space Telescope",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmRBs4szAr6QMwd8od81wWcKKm2tZWXnG7zdz9zxD4Sdek",
+  "infoUri": "ArtifactDAO.io",
+  "twitter": "artifactdao",
+  "discord": "https://discord.gg/jWQqZXPx5k",
+  "payButton": "Join",
+  "payDisclosure": "Welcome to the ArtifactDAO",
+  "tokens": [],
+  "version": 3
+}

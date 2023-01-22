@@ -1,0 +1,12 @@
+{
+  "name": "SnowdenDAO",
+  "infoUri": "https://snowdendao.substack.com/p/coming-soon?showWelcome=true",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmYA6fyttPApUCMZ4bjFY5M8CkNSoS9M18DE8q1scbtnZx",
+  "description": "SnowdenDAO's mission is to trigger a strong consensus network to speak up for people like Edward Joseph Snowden and Julian Assange who have suffered injustice, we fight for privacy protection, for freedom, for governance of decentralized autonomous organizational (DAO). We are raising funds to pay for his legal defense and relevant activities. Through this initiative to raise public awareness of the failures of justice system and the importance of centralized data privacy protection!",
+  "twitter": "SnowdenDAO_",
+  "discord": "https://discord.gg/RzS7nxDQEF",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Contribute",
+  "payDisclosure": " Direct donations to SnowdenDAO's official address will receive a percentage of $SNO tokens and will not be refunded if DAO does not win the auction"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "RussianDAO",
+  "description": "We stand with the Russian and support president Putin. Now we raise funds to the Russian soldiers who are injured in the war.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmYGoXQGU5dXhYevcaM5e42nhKFrYXhWthhbSnpMmeCCZA",
+  "infoUri": "https://www.russiandao.org",
+  "twitter": "Russian_Dao",
+  "discord": "",
+  "payButton": "contribute",
+  "payDisclosure": "You will only receive our tokens if you donate on juicebox.  Please remember to donate with a on chain wallet like MetaMask.",
+  "tokens": [],
+  "version": 4
+}

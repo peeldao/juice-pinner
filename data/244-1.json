@@ -1,0 +1,12 @@
+{
+  "name": "Phunky Dao",
+  "infoUri": "https://www.phunkyfungi.io",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qma4f9cpZmeHnezLTdo5Tr15ELbkfAUn3YAnGdRhpnPnwp",
+  "description": "A fungi based NFT project",
+  "twitter": "phunkyfungi",
+  "discord": "https://discord.gg/phunkyfungi",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Get Phunky",
+  "payDisclosure": "Let's get Phunky!"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "The Cold Wallet QDAO",
+  "description": "Qollaborative DAO for The Cold Wallet podcast.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmT262Z8C9FirEtShgEmKuyFGsmeGVjaFhAmer8e3ySzki",
+  "infoUri": "https://thecoldwallet.xyz",
+  "twitter": "heyrongo",
+  "discord": "",
+  "payButton": "Engage",
+  "payDisclosure": "This is not a good idea. You will lose all of this money.",
+  "tokens": [],
+  "version": 4
+}

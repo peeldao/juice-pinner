@@ -1,0 +1,11 @@
+{
+  "name": "FORMING",
+  "description": "Songcamp takeover at the Juicebox Lounge and Learning Center! Friday January 6, 3pm PST. At the end of the show, all funds will be evenly distributed to the performing artists. Every .01 or .023 contribution will be rewarded with an nft of your choice!\n\nForming is an experimental hyperverse concert as the pinnacle for our monthly events series with JuiceboxDao. Featuring curated lineups of web3 musicians, we will share original recordings of their performances at a virtual party inside the Juicebox parcel on Voxels. We want to demonstrate the ease and capability of Juicebox to be used as a tool to demonstrate how radical transparency can facilitate creative production and give other Web3 artists a taste of what Juicebox and Voxels can offer for their Web3 stack.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmTV8h9KWKd5peBTLTwgAecFG9nRRxoWm6RHSuqGsJEgSS",
+  "infoUri": "http://forming.lexicondevils.xyz",
+  "twitter": "forming__",
+  "discord": "https://discord.gg/Trjv9nA7c9",
+  "payButton": "Contribute",
+  "payDisclosure": "Funds paid into this Juicebox will go entirely to the musicians premiering works at juicebox.lexicondevils.xyz",
+  "version": 5
+}

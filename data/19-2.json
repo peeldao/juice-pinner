@@ -1,0 +1,11 @@
+{
+  "name": "litDAO",
+  "description": "A community-led DAO funding impact litigation. \n\nWe are a collective of everyday people fighting to restore legal balance with a particular focus on the web3 ecosystem.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmaWq9fkf2LGH9zydE7oEJoch92HDs3unzQLwM2KSM2skc",
+  "infoUri": "litdao.org",
+  "twitter": "litdaofund",
+  "discord": "https://discord.gg/Hyy7UYsb",
+  "payButton": "Donate",
+  "payDisclosure": "You are making a donation in exchange for governance tokens, monetary returns are not what this DAO is about and they are absolutely not guaranteed on any potential future transfer of governance tokens. The purpose is to grow the treasury value of litDAO over time so that we become a stronger force for justice, there is always a risk that the treasury (and therefore you) lose all invested capital.",
+  "version": 4
+}

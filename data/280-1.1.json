@@ -1,0 +1,12 @@
+{
+  "name": "Credit Card DAO",
+  "description": "💳 Let's create a better credit card. Credit Card DAO will create the first card with custom, community-generated rewards, meaning the perks and rewards are proposed by you–the customers–and will come from brands that you actually like.\n\nWhy are we doing this? Because existing credit card rewards suck! Airline miles are worth nothing, Marriott hotels are gross, and cash-back programs have hidden limits. Every contribution to our DAO of .02 ETH or more will get v1 of the credit card!",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qma1Szrdo6iehjcebcfJp8kHeRbnwhe4waiWNFjHkoHNmS",
+  "infoUri": "https://www.creditcarddao.com",
+  "twitter": "creditcarddao",
+  "discord": "https://discord.gg/KwyfJ9ef",
+  "payButton": "Contribute",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "BurgerDAO",
+  "description": "We're building the first decentralized burger franchise.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmTCySK3YQ71CG7zw3TyqYS9hvzdj6TH5GtKbf2o2djjiN",
+  "infoUri": "https://burgerdao.xyz/",
+  "twitter": "theburgerdao",
+  "discord": "https://discord.com/invite/n5hxnqXj",
+  "payButton": "Contribute",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AmpliFi",
+  "description": "AmpliFi Web3 Affiliate Marketing Platform. $AMP holders own & govern the platform & earn 100% of the profits. Funding cycles continue until 6% of $AMP total supply is sold. ETH overflow of each cycles distribution limit is redeemable by burning $AMP.  ",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmQyUQ7vX33rq7dS1RT4JcnEPWfvPZf4Loe6EGvFssgjr7",
+  "infoUri": "https://amplifi.gg/",
+  "twitter": "AmpliFiDAO",
+  "discord": "https://discord.gg/BTPgE4svq3",
+  "payButton": "Get $AMP",
+  "payDisclosure": "All AmpliFi earnings are based on the success of our partner programs. We win when our partners win. ",
+  "version": 5,
+  "archived": true
+}

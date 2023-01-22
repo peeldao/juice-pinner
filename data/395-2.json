@@ -1,0 +1,17 @@
+{
+  "name": "Crypto Underworld Podcast Bootstrap",
+  "infoUri": "",
+  "logoUri": "ipfs://QmVpfaQ6uuv9Cg8DHcW2aSkpWgfpMKypSJS2XoHimacsDL",
+  "description": "Crypto Underworld Podcast comes from the AFA/LCD discussions breaking down the scams we find and investigating how they work and who are behind them. \nWe think there is a massive disservice to the crypto community and new users to not have an easy place to listen in for \"buyer beware\" verbose as well as coverage on crypto fundamentals, self-regulation, and everything in-between. \nNo shilling projects, no covering the price of BTC day to day, just pure talk and a few guests here and there!",
+  "twitter": "UnderworldCast",
+  "discord": "discord.gg/GQCdQYZbXT",
+  "tokens": [],
+  "nftPaymentSuccessModal": {
+    "content": "Thank you for contributing to Crypto Underworld!",
+    "ctaText": "Follow Our Progress",
+    "ctaLink": "https://twitter.com/UnderworldCast"
+  },
+  "version": 5,
+  "payButton": "Donate",
+  "payDisclosure": "Anons who help bootstrap this project are not guaranteed to receive anything in return - we hope to provide value with entertainment and information. Beyond the podcast itself, we are looking into ways to reward and provide a return to individuals who help us get started - at this time the exact methods are unclear. Please only give on a donation basis with no expectations of anything in return."
+}

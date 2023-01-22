@@ -1,0 +1,13 @@
+{
+  "name": "Movie Studio DAO",
+  "infoUri": "https://www.moviestudiodao.xyz",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmVFtQSd8yFmHjcy6yN5NBm5ueMjkwdxfsxRJJvTGCB6P6",
+  "description": "We're building a crypto-native funding platform for filmmakers and creatives around the world who are shut out by the big studio systems. Supporters of each film project will receive an NFT with a unique benefit attached (be an extra, name a location or character, zoom call with the cast, be in the credits, etc.)",
+  "twitter": "amoviestudiodao",
+  "discord": "https://www.discord.gg/msdao",
+  "tokens": [],
+  "version": 4,
+  "archived": false,
+  "payButton": "Fund Filmmakers",
+  "payDisclosure": ""
+}

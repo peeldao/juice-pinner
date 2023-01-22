@@ -1,0 +1,9 @@
+{
+  "name": "Font2Font Hackathon",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeCHPFMBhm4DvaaN6fhtS3NSWW4px78rxTeDGh3Dp4Pwy",
+  "description": "A hackathon to fund the development of a machine learning app that will take a few images of ascii symbols as input and output a full font in that style. Hackathon details tbd. Donors will get to vote on the winner. Some details may change as the idea is fleshed out. Voting will likely be executed by JokeDAO contest.",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Donate",
+  "payDisclosure": "Payments to this project are donations to fund the hackathon and related activities. You will receive a receipt token in exchange that will be related to voting power in the eventual hackathon contest. No promises or guarantees implied. By donating you are giving up this ETH with no expectations of returns. "
+}

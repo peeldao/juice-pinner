@@ -1,0 +1,12 @@
+{
+  "name": "ProductRoundupDAO",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmQ5TFBekFWTJdazryHoZvgdsDMVNMuc7EBbbCwARogGDX",
+  "description": "Community of product-focused tech people evaluating the newest in frontier consumer tech. These funds are contributions to support projects that the community is excited about.",
+  "twitter": "",
+  "discord": "https://bit.ly/product-roundup-discord",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Donate",
+  "payDisclosure": "This is a donation to the ProductRoundupDAO and does not represent any ownership in items purchased. The intent is to create a governance token that helps vote on what projects are supported."
+}

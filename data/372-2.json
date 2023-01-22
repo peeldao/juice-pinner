@@ -1,0 +1,15 @@
+{
+  "name": "Thumbs Up",
+  "infoUri": "https://mirror.xyz/thumbsupfinance.eth",
+  "logoUri": "ipfs://QmNS14oTnWfXqZ8dULaAoewDycVdUZPKVUcMtTX2hqBCsr",
+  "description": "Thumbs Up (Finance) is a writing project about crypto, creativity and commerce. I've written content for/about many of DeFi's best protocols from PoolTogether to Index Coop. I want to keep making content, further exploring complex crypto subjects from Web3 social to privacy, governance, scaling solutions and beyond. Unfortunately a lot of this content is hard to fund and I'm currently working entirely off my work laptop and with limited funds to spare to experiment. If I can raise money through Juicebox (and my custom Non-Fungible Patronage NFT), I can do so much more, and even find creative ways to reward holders of the NFT. Will you help me turn this passion project into a full time gig? ",
+  "twitter": "thumbsupfinance",
+  "discord": "",
+  "tokens": [],
+  "nftPaymentSuccessModal": {
+    "content": "You're honestly changing my life. Thank you 💚"
+  },
+  "version": 5,
+  "payButton": "Support",
+  "payDisclosure": "Patronage is non-refundable. Only support if you believe in this project."
+}

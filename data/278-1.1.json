@@ -1,0 +1,12 @@
+{
+  "name": "SneakersDAO",
+  "description": "What if we created the world's biggest and most valuable sneakers collection together? Get SNKR token at the rate of 900 000 SNKR for 1 ETH.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmdV1xHQ5D7XAq4vGnFzmDxdenkXKVWjA54F4SZYAaGpm7",
+  "infoUri": "https://sneakersdao.io/",
+  "twitter": "sneakers_dao",
+  "discord": "https://discord.com/invite/DhpagwbJu2",
+  "payButton": "Get SNKR token",
+  "payDisclosure": "By contributing you are receiving governance token. Governance will be on pro rata basis. Owning a governanace token includes the ability to vote and advise on future direction of the DAO. ",
+  "tokens": [],
+  "version": 3
+}

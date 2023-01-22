@@ -1,0 +1,11 @@
+{
+  "name": "etherfunk.io",
+  "description": "Support Etherfunk: A new way to interact with any smart contract on Ethereum 🪩. Funds will be used for Etherscan API usage and website hosting. 👇\n\nCOST BREAKDOWN:\n- Etherscan API: $199/month\n- Tenderly API: $67/month\n- Hosting costs: $20/month\n\n:)",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeACwENLCLDMq23uEZa6TFmnmvRttiZ6qiAVGHsqhtboA",
+  "infoUri": "etherfunk.io",
+  "twitter": "aeolianeth",
+  "discord": "",
+  "payButton": "Support now",
+  "payDisclosure": "Thanks for supporting Etherfunk! You're helping keep the website alive 🪩.",
+  "version": 5
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Vibes Farm",
+  "description": "Your corn, our hub!  Vibes Farm is an open source initiative to build a friendly, fun, and functional place for online communities and DAO's to work and grow together.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmTwt5dLZtVAjA8dih37ZiVku2qjJvqnXRdECVrEh6Gtmm",
+  "infoUri": "vibes.farm",
+  "twitter": "vibesfarm",
+  "discord": "https://discord.gg/PPp5R4Rc",
+  "payButton": "Farm Vibes",
+  "payDisclosure": "By farming vibes you are helping finance farm construction and management.  Put your brain grain to work and help us grow!",
+  "tokens": [],
+  "version": 3
+}

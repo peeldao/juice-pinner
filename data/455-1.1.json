@@ -1,0 +1,12 @@
+{
+  "name": "Donate2Ukraine & Get an NFT",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmabUnro9MW4E8U2j67uFancHbzQ2zFg2iqETemjcbmU3i",
+  "description": "This project is designed to donate to Ukraine and help common people there under the appeals from Vitalik Buterin and Mykhailo Fedorov, the Vice Prime Minister of Ukraine. Related links include: https://twitter.com/FedorovMykhailo/status/1497549813205848068; https://twitter.com/VitalikButerin/status/1497608588822466563.\n\nMake love, not war. \n\n70% of the funding will be donated the address shown on Mykhailo Fedorov's twitter: 0x165CD37b4C644C2921454429E7F9358d18A45e14\n\n25% would be used to supply the liquidity on Uniswap.\n\n5% would be reserved to maintain the DAO to offer a longterm support to Ukrainian people.\n\nEvery donator will receive an NFT medal to honor their support. ",
+  "twitter": "https://twitter.com/FedorovMykhailo",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "donate",
+  "payDisclosure": "make love, not war."
+}

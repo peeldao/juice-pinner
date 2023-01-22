@@ -1,0 +1,17 @@
+{
+  "name": "Zeugh's Juice",
+  "infoUri": "https://bit.ly/3lfp3z8",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmUCnxDmA9CA7RxerZQgEoLVAEKewyM59eg9cRir1oMXLK",
+  "description": "That's where I get my money and my JBX. \n\nThis where you get $Zion",
+  "twitter": "zeughfromcanu",
+  "discord": "https://discord.gg/gwYNkwKkeM",
+  "tokens": [
+    {
+      "value": "0x3abF2A4f8452cCC2CF7b4C1e4663147600646f66",
+      "type": "erc20"
+    }
+  ],
+  "version": 4,
+  "payButton": "Z money!",
+  "payDisclosure": "Hey, paying this project means directly giving money to zeugh.eth and whatever he wants to do with it\n\nYou will get tokens, they might not have any utility, maybe they do, idk"
+}

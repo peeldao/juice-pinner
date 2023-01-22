@@ -1,0 +1,12 @@
+{
+  "name": "NFThuntDAO",
+  "description": "  Look for and mint early NFT projects. Once the floor price of the corresponding NFT exceeds 1ETH, we will draw prizes according to the donation weight to the donor.\n  I am fighting alone now. I wish I could gather someone who also have a lot of time to work in an DAO. It would be more efficient, wouldn't it?",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qmd8nr6qYEtenMQj5QUFgceLCSTuVgc8MCeCAhgQgVcfnq",
+  "infoUri": "not yet",
+  "twitter": "https://twitter.com/Bekingwang",
+  "discord": "https://discord.gg/eBy8TawE3f",
+  "payButton": "support",
+  "payDisclosure": "1.NFT for each floor over 1eth is given to the donor (based on fundraising weight)\n2.50% of the funds raised are used to motivate DAO members.\n3.50% of the funds raised are used to purchase early-stage NFT.",
+  "tokens": [],
+  "version": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "TesterDAO",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZMPvcDG7SE9v86Vm96G64Nqusv2Xrovwx9usVWCJ11sy",
+  "description": "DAOs are building stuff as distributed teams but this means QA is a challenge for developers. One small change in codebase can break the entire protocol. That's why we're building a QA platform for distributed teams so they don't lose sleep over some random bugs.\n\nTesterDAO will build a platform to assign incentivized QA tasks to distributed team members. \n\nDAO members will be able to offer their services to other DAOs needing their services or work with other TesterDAO members to collaborate on projects.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "",
+  "payDisclosure": ""
+}

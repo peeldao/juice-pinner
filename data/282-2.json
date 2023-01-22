@@ -1,0 +1,12 @@
+{
+  "name": "$READY",
+  "infoUri": "https://ReadyERCToken.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeQvoDGmoMQvKDKitEC4rpHHPKvna7YN995QLfj5sZpT8",
+  "description": "$READY Presale\nAre you $READY or not?\n\nSoftcap 2.5 ETH\nHardcap 5.0 ETH\n\nMin. contribution 0.1 ETH*\nMax. contribution 0.5 ETH*\n\n*Please add an extra 0.01 ETH for distribution gas fees. If not, it will be deducted from the total amount of $READY tokens received.",
+  "twitter": "ReadyERC",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payButton": "I'm $READY (pay)",
+  "payDisclosure": "Min. 0.05 ETH*\nMax. 0.5  ETH*\n\n*Any amount less or more will not be distributed. Add 0.01 ETH to your initial amount to cover for distribution gas fees. If not it will be deducted from your receiving $READY tokens."
+}

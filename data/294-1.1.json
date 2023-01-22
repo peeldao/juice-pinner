@@ -1,0 +1,12 @@
+{
+  "name": "DomainDAO",
+  "description": "We are buying .dao domain, the first top-level domain to be owned by People!",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qmbx1uyg7dYi2uND26KKejQSotL2iZNjpj9VJiYx7x2UQj",
+  "infoUri": "https://www.thedomaindao.org",
+  "twitter": "theDomainDAO",
+  "discord": "https://discord.gg/DuAP2yKx66",
+  "payButton": "Contribute",
+  "payDisclosure": "Let's own.dao domain together!",
+  "tokens": [],
+  "version": 4
+}

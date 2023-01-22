@@ -1,0 +1,12 @@
+{
+  "name": "test-battle",
+  "infoUri": "https://thebattle.jp",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmUcns2hjtvnzoc12JgK1yKTL6NEYkzr97EskxStxEVjuP",
+  "description": "プロジェクトの運営資金のため",
+  "twitter": "thebattle.com",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Pay",
+  "payDisclosure": "Pay disclosure"
+}

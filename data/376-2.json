@@ -1,0 +1,16 @@
+{
+  "name": "Mad Hatter MGMT",
+  "infoUri": "https://github.com/BanklessDAO/mad-hatter",
+  "logoUri": "ipfs://QmQ32jHLJbVKueo9XKCZmTb5zAk7JEEJM6ZNd2hCQSv7tv",
+  "description": "BanklessDAO Administrative bot, built to assist with operations and background processes in the BanklessDAO Discord server.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "nftPaymentSuccessModal": {
+    "content": "Thank you so much for your support! We're mad with joy at your contribution, and would like to present to you this NFT as a symbol of our undying gratitude.",
+    "ctaText": "Perfectly Splendid!"
+  },
+  "version": 5,
+  "payButton": "Support",
+  "payDisclosure": "We thank you for your consideration in supporting the continued development of Mad Hatter."
+}

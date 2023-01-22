@@ -1,0 +1,16 @@
+{
+  "name": "A social experiment: Living on Juicebox",
+  "infoUri": "",
+  "logoUri": "ipfs://QmYCZzhfhbpYzgCNbagbrpERjyAdA6cZmuBfYBu5RePgtD",
+  "description": "I want to know if someone can support their household on Juicebox monthly funding cycles (aka donations). For two years now, I've been applying for all kinds of jobs. This shit is ridiculous. So, I created this Juicebox project to keep swimming. I do have a contract though. At the end of the project I'll get paid. Then, I will find a way to redistribute kindness to my Juicebox supporters *yosh!*",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Easy Donate",
+  "payDisclosure": "",
+  "nftPaymentSuccessModal": {
+    "content": "Congratulations! You've got a special pickle! A hand-colored NFT :)",
+    "ctaText": "Return"
+  }
+}

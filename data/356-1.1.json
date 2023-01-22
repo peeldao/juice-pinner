@@ -1,0 +1,12 @@
+{
+  "name": "BTCDAO",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmPaRQ5Xcn4Mnk7gDZdoaSKcJ3ZA8VVzcQjbgZ456WoCXz",
+  "description": "More than 1 million BTC wallet addresses with a balance greater than 0.1 are unclaimed，According to the design of Bitcoin, each address corresponds to 2^96 private keys that can transfer assets, that is, 1 pair of 79228162514264337593543950336，Addresses with balances are like gold of different sizes scattered in the land. The private keys of many addresses have long been lost, and many of them have large amounts of Bitcoin.This project uses the latest algorithm to perform indiscriminate private key collision on these addresses to crack the wallet address。The donation was used to purchase equipment, pay staff salaries and electricity bills. 80% of the BTC that is cracked each time is allocated to the donors this time, 15% is used to maintain the continuation of the project, and 5% goes into the fund for flexible allocation。 Due to the security design of Bitcoin, a complete crack cannot be guaranteed, and the investment is at your own risk",
+  "twitter": "",
+  "discord": "https://discord.gg/ZUch5G9ZbR",
+  "tokens": [],
+  "version": 3,
+  "payButton": "",
+  "payDisclosure": ""
+}

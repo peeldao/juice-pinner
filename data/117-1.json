@@ -1,0 +1,12 @@
+{
+  "name": "Hanukkah Dao",
+  "infoUri": "hanukkahdao.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmW7WgqjvCrmDugT9FLXEXdEoLsvpk4vAgd3norU4GGZLG",
+  "description": "DAO votes on random Hanukkah present for a random person for each night of Hanukkah",
+  "twitter": "0xShibboleth",
+  "discord": "https://t.co/0ZePBRT5JA?amp=1",
+  "tokens": [],
+  "version": 3,
+  "payButton": "",
+  "payDisclosure": "This is a donation to the dao for gifts, not an investment "
+}

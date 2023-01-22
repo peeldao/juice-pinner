@@ -1,0 +1,12 @@
+{
+  "name": "MountainDAO",
+  "description": "We are buying a mountain in Virginia (to start)!  An experiment in decentralization, Real Estate tokenization, and the power of memes.  Starting with one mountain, with the goal of decentralization & preservation of mountains around the world.  A new take on public land!  Link to the first mountain:  https://www.zillow.com/homedetails/TRACT-11-Country-Ln-11-Thaxton-VA-24174/2067406682_zpid/?utm_campaign=iosappmessage&utm_medium=referral&utm_source=txtshare",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmRLPtCVMu3xAKawuJLmWk8yyT47yskcnLsvf6M3uZ6d6Z",
+  "infoUri": "",
+  "twitter": "mountaindao",
+  "discord": "https://discord.gg/jhqczZMe",
+  "payButton": "Purchase Mountain!",
+  "payDisclosure": "MountainDAO is buying a mountain.  You decide what happens next!",
+  "tokens": [],
+  "version": 3
+}

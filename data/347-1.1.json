@@ -1,0 +1,12 @@
+{
+  "name": "USERSDAO",
+  "infoUri": "https://www.usersdao.org/",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmbJyUifZWybRkvgZSLBTjhZCnLgFEt7ohPDWuS9xEtRbD",
+  "description": "The mission of the USERSDAO is to inspire a powerful solidarity network and fight for what we ourselves deserve as users of multiple platforms. We will raise funds to grow our UsersDAO organization members and let more people know that this organization exists because it is so relevant to us all.",
+  "twitter": "usersdao",
+  "discord": "https://discord.com/invite/usersdao",
+  "tokens": [],
+  "version": 3,
+  "payButton": "CONTRIBUTE",
+  "payDisclosure": "Contribute ETH to the UsersDAO via Juicebox. The funds will be used to Help DAO organizations accumulate much more users. (Do not send UsersDAO other assets. All other assets will be considered a donation to the DAO's treasury— to be governed by UsersDAO — and are not eligible for refunds.)\nInvest with the risk you can afford"
+}

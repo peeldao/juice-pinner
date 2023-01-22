@@ -1,0 +1,12 @@
+{
+  "name": "OneStore DAO",
+  "description": "Juicebox project to raise funds for OneStore DAO",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmNLfYDCbKFvmPhEPasi8jUodEWR5nRiqWkvuWJwSyyZed",
+  "infoUri": "https://www.onestoredao.com/",
+  "twitter": "onestoredao",
+  "discord": "https://discord.gg/HjqjtBEKSw",
+  "payButton": "Join Us!",
+  "payDisclosure": "",
+  "tokens": [],
+  "version": 4
+}

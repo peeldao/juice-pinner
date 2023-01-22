@@ -1,0 +1,12 @@
+{
+  "name": "AB Vault",
+  "infoUri": "advantageblockchain.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmNRY6RytYw2gygME1N6XSazXbzxxCPRBBKcK7YNK1WYpR",
+  "description": "Raise ETH, DAI, and USDC. All ETH will be locked in a MakerDAO ETH-C Vault to open up a strategically risk-minimized leverage position on ETH to prepare for the next bull market. Profit earned from the leverage position (minus tax liabilities) will go toward buying and burning AB Tokens on the open market. AB Tokens will be distributed to those who fund this initiative based on the dollar amount they contribute. ",
+  "twitter": "advantageblock1",
+  "discord": "https://discord.gg/HNyDzrBY",
+  "tokens": [],
+  "version": 4,
+  "payButton": "Fund",
+  "payDisclosure": "All contributions are subject to loss as the market is unpredictable and MakerDAO/Instadapp smart contract risk is unavoidable."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Drip Box ",
+  "infoUri": "https://forms.bueno.art/jbmerch",
+  "logoUri": "ipfs://Qmd2MhGViZU3Gqu52W8wGzCFL5pBk6RxCYv5XxBxJdJXAx",
+  "description": "Where the hottest drip can be purchased in Web3. \nThe Drip mechanic:\n+ Each Drip Period is 2 weeks. \n+ Supply is infinite for that 2 week Drip\n+ After which that supply is capped and all NFT's that send shipping data via https://forms.bueno.art/dripbox get a physical as well\n+ Price of Merch includes the cost to mfg 1 single piece, and global shipping, and 10% to the artist/s \n+ As collectors pile in on a piece of merch that drip gets cheaper to mfg, not to mention total shipping cost are not likely to be global and probably less expensive to execute. \n+ Those saving stay in the treasury to be collected in the \"Slurp Overflow\" phase, lasts 2 weeks after the \"Slurp the Drip\" Phase. Can be found in \"Manage\" Button -> Redeem tokens for ETH \n+ After this phase we will notify you via @wagmistudios on Twitter when a new \"Slurp the Drip\" phase has begun in which \"Slurping Overflow\" is not possible.\n\nEpic, one time only, bulk price variable, collectables  ",
+  "twitter": "WagmiStudios",
+  "discord": "",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Slurp This Drip",
+  "payDisclosure": "All merch is hand assembled and purchased after the all orders are in. Patience is a dope virtue\n\n After Hitting the pay button go to https://forms.bueno.art/dripbox and fill out the form!!!",
+  "nftPaymentSuccessModal": {
+    "content": "Congrats! You are the fresh new owner of this rounds Drip. Please go to https://forms.bueno.art/dripbox and fill out the form to get the physical. ",
+    "ctaText": "Submit Form",
+    "ctaLink": "https://forms.bueno.art/dripbox"
+  }
+}

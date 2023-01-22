@@ -1,0 +1,11 @@
+{
+  "name": "Astra Protocol",
+  "description": "Astra Protocol is a decentralized KYC Platform for Web3",
+  "logoUri": "ipfs://QmTqarX5oL2g6t3j5sc8DFq2Vvm4cUkLKChX8Pzz7qV4HB",
+  "infoUri": "https://astraprotocol.com",
+  "twitter": "AstraProtocol",
+  "discord": "https://astraprotocol.medium.com",
+  "payButton": "",
+  "payDisclosure": "",
+  "version": 5
+}

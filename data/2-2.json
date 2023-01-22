@@ -1,0 +1,21 @@
+{
+  "name": "MeowsDAO",
+  "description": "The Whiskers' Progeny collection consists of 11,111 pieces, each is a combination of four-hundred and sixteen (416)* hand-drawn kitty cat traits, putting the possibilities into the billions. Additionally, seventeen (17) impossible double-extra-special Whiskers' Progeny sets are buried within the litter. *If you include the hand-drawn backgrounds and t-shirt patterns, unique traits total seven hundred and eight (708). The purpose of this DAO is to evangelize and proliferate all things Mr. Whiskers and his progeny including Proof of Meow by way of this NFT collection and definitely future ones. The utility of holding MEOW governance includes the direct use of proceeds from the sale of the NFTs, including determining the future traits, commissioning tchotchkes with Mr. Whisker’s or his progeny likeness, and other cute-cat-themed activities.\n\nPreMint: https://www.premint.xyz/meowsdao-progeny-genesis/\nGovernance: https://snapshot.org/#/kittycats.eth\nProof of Meow: https://www.compuglobalhypermegacorp.com/mr-whiskers-whitepaper-introducing-proof-of-meow/\nAdd token to Metamask https://bit.ly/3uk08zp\nCatnaps are permitted, otherwise don't sleep on MeowsDAO.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZCjbL9tbu9RpvKN2DiNrc8Lvqaat4Hw7DvBJQTR3Jqb7",
+  "infoUri": "https://meowsdao.xyz/",
+  "twitter": "meowsdao",
+  "discord": "https://discord.gg/zENeZEGfcE",
+  "payButton": "Meow",
+  "payDisclosure": "meow, meow, meow and meow, https://www.compuglobalhypermegacorp.com/disclaimers/\nAdd token to Metamask / Wallet https://bit.ly/3uk08zp",
+  "version": 4,
+  "tokens": [
+    {
+      "value": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "type": "erc20"
+    },
+    {
+      "value": "0x4ed4DDd7981e347b673f697DC821965A3EB64b9c",
+      "type": "erc20"
+    }
+  ]
+}

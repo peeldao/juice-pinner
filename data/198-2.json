@@ -1,0 +1,12 @@
+{
+  "name": "Dogechain Fan Club DAO",
+  "description": "The Dogechain Fan Club DAO is a community-governed DAO that aims to build and expand the Dogechain ecosystem. The DAO will fund projects that contribute to the Dogechain ecosystem, with a focus on building infrastructure and applications that enable users to interact with the Dogechain network. The DAO will also provide funding for marketing and community outreach initiatives that raise awareness of the Dogechain project and drive adoption of the platform.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmeS56d8YWoSnfwysqcs35GkPXa1dYmVA1mVhb8mZAp8Qm",
+  "infoUri": "https://snapshot.org/#/dcfcdao.eth",
+  "twitter": "DogechainFC",
+  "discord": "",
+  "payButton": "Join the Club",
+  "payDisclosure": "By contributing to this project, you will receive tokens that will grant you governance power over the DAO.",
+  "version": 4,
+  "archived": true
+}

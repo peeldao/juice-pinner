@@ -1,0 +1,11 @@
+{
+  "name": "DinosaurDAO",
+  "description": "Not sure how to donate? Watch this demo: https://www.dinosaurdao.org/how-to-donate\n\nWe’re creating DinosaurDAO to bid for a Gorgosaurus at Sotheby’s on July 28th to save the fossil from going into private collection, and to continue the experiment of digital citizenship and decentralized public stewardship. We're hoping to raise $15M in the next two weeks in time for the auction. You can read more about our mission and plan here: https://www.dinosaurdao.org/. \n\nWe’ve chosen this mission because we believe science is a public good, and it’s the people’s right and responsibility to steward science as digital citizens. Our plan is to raise funds using a DAO, identify deserving public institutions that would benefit from having the fossil in their collection, and use the DAO to vote on which institution it should go home to. We’re working with former ConstitutionDAO organizers, Juicebox, Sotheby’s and Endaoment to make this plan a success.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmSbT5C5ndXeMic2uFw6mSE6JXKFRkZFAjMh9kZZ57K4mo",
+  "infoUri": "https://www.dinosaurdao.org/",
+  "twitter": "DinosaurDAO",
+  "discord": "https://discord.com/invite/D96EJJTj4m",
+  "payButton": "#OwnTheseBones",
+  "payDisclosure": "Contributors will have the opportunity to influence the ultimate destiny of the dinosaur and the DinosaurDAO community. However, donations do not represent an equity stake in the artifact. The $BONES token is in no way a securitized investment; it is purely intended as a mechanism for decentralized governance.\n\nThe fossil itself will be managed by a board, whose members are legally obligated to execute the will of the DAO, with certain restrictions, including but not limited to actions that would threaten the integrity of the fossil.\n",
+  "version": 4
+}

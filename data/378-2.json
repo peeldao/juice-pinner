@@ -1,0 +1,11 @@
+{
+  "name": "Lenster",
+  "infoUri": "https://lenster.xyz",
+  "logoUri": "ipfs://QmPbLKZ1cZumURPLDm6VU4NhNWEFU3r33eTxarYpUB7TQW",
+  "description": "Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+  "twitter": "lensterxyz",
+  "discord": "https://discord.com/invite/B8eKhSSUwX",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Donate"
+}

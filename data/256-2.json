@@ -1,0 +1,11 @@
+{
+  "name": "NFT Rewards Audit Fund",
+  "description": "Fundraiser for a Code4rena audit of the Juicebox Tiered NFT Rewards contracts.\n\nUPDATE: Mint an Auditor Banny NFT and 100% of the proceeds to go this project. Mint at 0.1eth, 1eth, or 10eth tiers to unlock higher level art. You'll receive redeemable project tokens just like a donation via the Fund button. \nMint: https://mint.fun/0x7ffbdc55e4dab65c5a750fc4e0b499287ff3909a\n\nUPDATE: Jango and Peri will be matching the JBX rewards, tripling the JBX rewards for NFT minters. 3 Million JBX will now be split between NFT holders at EACH tier level.\n\nUPDATE: Redemptions are paused until Saturday Oct 22 when JuiecboxDAO refunds the cost of the audit to this project at the start of its next Funding Cycle. \n\nBudget:\nCode4rena's scoping team has determined that the NFT Rewards contracts will cost $72k to audit:\n- $50k reward pool\n- $15k fees\n- $7k that will be returned to the treasury upon completion of the post-contest review (details: https://code4rena.notion.site/code4rena/Post-Contest-Sponsor-Review-Tasks-3d8bc884cfc042c2bf6cfa53a1148080). \n\nMethodology:\nFunds will be withdrawn from the treasury, converted to DAI, and transferred to Code4rena in early October (2022) to fund the audit contest starting on or around October 18. \n\nMembers of JuiceboxDAO have submitted a governance proposal (https://juicetool.xyz/nance/juicebox/proposal/6bb92c83571245949ecf1e495793e66b) to refill this treasury with the total amount of ETH withdrawn. If approved by the DAO, this proposal will take effect in its next governance cycle, which starts on October 19. \n\nIf the JBDAO proposal is approved and funds are added to this project treasury, all individual funders will be able to redeem the tokens they received upon contributing for their initial contribution amount (ETH). ",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmNMeYg9D81hvo1nqQ3o9BfAy158femF8ZysBpUPshtptp",
+  "infoUri": "https://github.com/jbx-protocol/juice-nft-rewards",
+  "twitter": "",
+  "discord": "https://discord.gg/juicebox",
+  "payButton": "Fund",
+  "payDisclosure": "Funds donated to this project will be used to fund a Code4rena audit contest of the NFT Rewards contracts. This is a donation to fund an audit, not an investment. By paying this project you acknowledge that you are giving this ETH away.",
+  "version": 5
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AlonsoDAO",
+  "infoUri": "https://alonsodao.com/",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmScjanPJk2vY7FMwqskxoDJCPueuzZoM3xAk1Qmb3o2cn",
+  "description": "We are buying Fernando Alonso's Renault R24.\nVamos a comprar el Renault R24 de Fernando Alonso",
+  "twitter": "Alonso_DAO",
+  "discord": "https://discord.gg/w7jbtf4h",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Contribute",
+  "payDisclosure": "All funds will be sent to Gnosis Safe Community Wallet, 0x2181020139269c3eA95395ea8454553783057bdf\n\nTodos los fondos serán enviados a la Gnosis Safe Community Wallet, 0x2181020139269c3eA95395ea8454553783057bdf"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "EMS",
+  "infoUri": "https://ems.fyi",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmYY2EHfDHnkndkg9oFTPHMwLwHQfXfFoh2PgQ1rN5AB5r",
+  "description": "Web3 Based Instant Messaging. Ethereum Message Service is committed to building a decentralized instant messaging service, and EMS will ensure the reach of messages. Unlike blockscan, in addition to being based on Ethscan, we will also establish cooperation with exchanges, wallets, and opensea's message centers to ensure 100% reach of messages. We will build a browser plug-in and a second-layer network signature system to ensure that your social relationships and information will not be leaked. Of course, all of this requires your donation and use. We are currently writing a demo version in Rinkeby, which will be launched on the mainnet in Q2.",
+  "twitter": "eth_ems",
+  "discord": "https://discord.gg/xvP3M6gYmq",
+  "tokens": [],
+  "version": 3,
+  "payButton": "",
+  "payDisclosure": "Thanks for your sponsorship! We will work hard to build!"
+}

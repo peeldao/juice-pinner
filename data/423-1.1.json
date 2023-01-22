@@ -1,0 +1,12 @@
+{
+  "name": "Candybox DAO",
+  "infoUri": "https://candybox.money",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmXm32ebSf3LLnebBRUmZgm2vvkSPw4fhmGGQrwLvwNYME",
+  "description": "CandyBoxDAO is inspired by the juicebox project, and trying to bring innovation further.\nCandybox make Community funding for people and projects easier.\nIt launch on BNB Chain (BSC), lower gas fee and quicker transactions.\nLet's start a new journey!",
+  "twitter": "CandyboxDAO",
+  "discord": "https://discord.gg/DCUmdwJemm",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Add Candy",
+  "payDisclosure": "Appreciate your supports! Please go to https://candybox.money to follow & support this project, let's go!"
+}

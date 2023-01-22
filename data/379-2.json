@@ -1,0 +1,11 @@
+{
+  "name": "Twitter DAO Energy Gauge",
+  "description": "A place to store your ETH if you: \n1) believe twitter should be a DAO.\n2) stan some smart contract risks (https://info.juicebox.money/dev/learn/risks).\n\nAt any time, you can redeem the same tokens you get from contributing to this energy gauge to reclaim your ETH. You can keep your NFT if you get one.\n\nThe funds in this treasury are programmed to always belong to token holders at the same rate they were issued.",
+  "logoUri": "ipfs://QmZ3KTbdmxsDczpbwrArY3dEJMD3ZQ4RavUe6wJW6mFKNq",
+  "infoUri": "",
+  "twitter": "",
+  "discord": "",
+  "payButton": "Believe",
+  "payDisclosure": "You can redeems your tokens at any time to reclaim your funds.",
+  "version": 5
+}

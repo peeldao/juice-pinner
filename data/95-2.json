@@ -1,0 +1,18 @@
+{
+  "name": "Succus - Hackathon Project",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmajDVgee5wSbeHf3aoUULiTCPdWo5hBRGV1aVDwNSa6qa",
+  "description": "Succus - Building a verifiable messaging system for JB projects and beyond.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 4,
+  "payButton": "Pay",
+  "payDisclosure": "",
+  "chatSupport": "0x8b80755c441d355405ca7571443bb9247b77ec16",
+  "gundbPeers": [
+    "https://gun-manhattan.herokuapp.com/gun",
+    "https://gun-us.herokuapp.com/gun",
+    "https://gunpoint.herokuapp.com/gun"
+  ]
+}

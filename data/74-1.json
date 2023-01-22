@@ -1,0 +1,12 @@
+{
+  "name": "HashWorld",
+  "infoUri": "https://hashworld.me",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmcNr28SXhRn3ehb7WTbfpuJ3HLUWZj23BA4VNPm49rXLq",
+  "description": "HashWorld is a user-created pixel Metaverse that supports different blockchains such as Ethereum, BSC,AVAX.Players can easily build their own pixel world and play to earn. Total 5000 Seed Character NFTs pre-sale by price 0.08 ETH. NFTs you buy will be minted at the end of the funding cycle.",
+  "twitter": "TheHashWorld",
+  "discord": "https://discord.gg/b4HQ6yn2H9",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Mint Seed Character NFT(price:0.08ETH)",
+  "payDisclosure": "Welcome to your HashWorld"
+}

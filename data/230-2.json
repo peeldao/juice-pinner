@@ -1,0 +1,11 @@
+{
+  "name": "Jugcoin",
+  "description": "Jugcoin (ticker: Jug) is a crypto voucher system decentralized. Its default face value is engineered to offset fixed USD 10 / Jug unit, connecting directly merchants and consumers without middlemen. The voucher function is turned on when the bearer surrenders Jugcoin either for booking services or for exchanging services and goods at no further fiat money payment. When merchants accept, at their choice, partial Jugcoins at face value and the balance payable in fiat money, Jugcoin becomes a digital discount coupon.\nThere are 3 smaller denominations designed for small transactions, matched also to fluctuations of Jugcoin market prices. 1 Jug = 10 Cups = 100 Sips = 1000 Drops. When Jugcoin market price number go up to a point when its default offsetting power (when market price e.g. 1 Jug > USD 1 ) is reduced to less than 10 folds, protocols trigger smaller units to perform. Bigger units resume to work when Jugcoin price drops to trade off ≥ 10 folds of face value. While the initial public generation offer is USD 0.01, any market price lower shall always offset USD 10. \nJugcoin ecosystem is a progressive decentralized autonomous organization called JUG DAO governed by community members including developers, contributors, both merchant and consumer users, and other stakeholders. It can be used either as free commons or with 2% take rates to JUG DAO at merchants’ free choice, activating thereof gamification,  charity donation, and minting more reputation tokens called Mayflowers to earn and govern JUG DAO. ",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmScxQqxZrcEexgWG3i8akzr2SW1mKGKtmhszPXonkMUiT",
+  "infoUri": "https://jugcoin.io/",
+  "twitter": "JugcoinDao",
+  "discord": "https://discord.gg/YtPf3Paf",
+  "payButton": "",
+  "payDisclosure": "",
+  "version": 5
+}

@@ -1,0 +1,12 @@
+{
+  "name": "MySpaceDAO",
+  "infoUri": "https://myspacedao.net/",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmVbAxcY2QCL3BCdsVbHj4khZCkZsaqGjz5fPNBijv5sjN",
+  "description": "We are building a DAO to buy back MySpace from Meredith Corporation, and turn it into the first descentralized social media platform.",
+  "twitter": "mspacedao",
+  "discord": "https://discord.gg/tSjSupMeJp",
+  "tokens": [],
+  "version": 4,
+  "payButton": "Contribute",
+  "payDisclosure": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "DeFi Kingdoms Guild ",
+  "description": "We are crowdfunding a Guild that will deploy it's treasury into the Crystalvale expansion of DFK. \n\nThe goal is to raise a pool of capital to enter the ecosystem and create the most rewards for Guild members. We will play the game as a collective using snapshot proposals to vote on strategy, and then airdrop all rewards back to Guild members. \n\nParticipation in the Guild will earn players boosted rewards. This allows small players to earn extra rewards by participating. \n\nEverything from questing to treasury management are on the table to be voted on!\n \n\nAfter 1 year players will be able to redeem their tokens for a proportional claim of the remaining treasury. \n\nFounder doxxed on Gitbook\n\n*Please see details in Gitbook* \n\nLinks\nGitbook: https://t.co/YE6RllJWVj\nDiscord: https://discord.gg/FaVw4pcb\nTwitter: https://twitter.com/DeFiKingdomsDAO",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmWT152P2V3r8rLnCbhFGyw9WiD1eDn3QJppPw3MAneoLx",
+  "infoUri": "https://t.co/YE6RllJWVj",
+  "twitter": "DeFiKingdomsDAO",
+  "discord": "https://discord.gg/tgFT7XBU7K",
+  "payButton": "Join the Guild",
+  "payDisclosure": "We are playing a game together but don't forget that all of these protocols are experimental and come with risks",
+  "tokens": [],
+  "version": 3
+}

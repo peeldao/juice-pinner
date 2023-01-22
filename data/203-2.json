@@ -1,0 +1,11 @@
+{
+  "name": "MP3 Radio",
+  "description": "Internet radio station featuring the music and people of Web3.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmTmEugFUP137koxYNrYKboZUW3rYE1kHKMiatMpbNcDdU",
+  "infoUri": "",
+  "twitter": "mp3radio_",
+  "discord": "https://discord.gg/z8wCEJnMwp",
+  "payButton": "Hit It!",
+  "payDisclosure": "Funding MP3 Radio through Juicebox is NOT an investment. Any value or utility you get from your tokens will be decided by the MP3 Radio DAO.",
+  "version": 4
+}

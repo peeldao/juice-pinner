@@ -1,0 +1,12 @@
+{
+  "name": "SMLS",
+  "description": "Pronounced /smīlz/. The programmable donations protocol for nonprofits, NGO's, foundations, and charitable institutions that rewards giving.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZ1kfe3r1npbwSQKRwoxbPyTGyxaw7qfVKRj8fSuUMiu4",
+  "infoUri": "https://smls.fun/",
+  "twitter": "smlsdotfun",
+  "discord": "https://discord.gg/qJsWkmBreD",
+  "payButton": "Contribute",
+  "payDisclosure": "Your contributions will help us launch the SMLS donations protocol, and most importantly fund life-changing humanitarian efforts around the world. You rock!",
+  "version": 5,
+  "archived": true
+}

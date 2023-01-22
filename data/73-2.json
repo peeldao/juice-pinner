@@ -1,0 +1,12 @@
+{
+  "name": "Giftomy",
+  "infoUri": "https://giftomy.xyz",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmSS4sRSuiKRTgn3cwKzRjbaH2UeYaJB6sNsMnH8pYFEZJ",
+  "description": "Giftomy is a NFT marketplace for public goods, which include open source software, open science, open education, open data and so on. We help public goods creators to value their work and connect with their supporters. Finally it will unleash unlimited creativity.",
+  "twitter": "giftomy",
+  "discord": "https://discord.gg/gdVp3zyXjP",
+  "tokens": [],
+  "version": 4,
+  "payButton": "",
+  "payDisclosure": "The pay will be used for the development and operation of Giftomy"
+}

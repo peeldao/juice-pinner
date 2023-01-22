@@ -1,0 +1,12 @@
+{
+  "name": "PeopleAngelsDAO",
+  "infoUri": "https://peopleangelsdao.org",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmYb8C34S3XTmGmnmz8Btu3MVmhGjtPscFNP17iMfx2rHk",
+  "description": "We are making a donation to UNICEF(https://www.unicef.org/).",
+  "twitter": "People_AngelDAO",
+  "discord": "https://discord.gg/W8TrrrdKxf",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Contribute",
+  "payDisclosure": "$ANGELS token will be provided in return for contributions to PeopleAngelsDAO, serving as governance token in proposals and representing a share in the ownership of the DAO and its assets."
+}

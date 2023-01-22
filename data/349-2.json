@@ -1,0 +1,15 @@
+{
+  "name": "Blec Report",
+  "infoUri": "https://blec.report",
+  "logoUri": "ipfs://QmTsuvKe1JPYpm9dWwiELNoYKo51CPk2qsQrucApMXnMn9",
+  "description": "With your support, Blec Report has a chance to grow into an incredibly valuable resource for the DeFi community.\n\nThe goal of Blec Report is simple: educate DeFi users on the importance of adversarial thinking by highlighting the strengths & weaknesses of popular DeFi apps.\n\nEducation is the only way that we can strengthen this ecosystem and keep it from being captured by VCs and regulators.\n\nJOIN ME!",
+  "twitter": "chrisblec",
+  "discord": "",
+  "tokens": [],
+  "nftPaymentSuccessModal": {
+    "content": ""
+  },
+  "version": 5,
+  "payButton": "Support",
+  "payDisclosure": "Contributions made via this Juicebox will never influence what is written on Blec Report."
+}

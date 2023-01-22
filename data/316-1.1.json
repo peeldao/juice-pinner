@@ -1,0 +1,12 @@
+{
+  "name": "DogeKing",
+  "infoUri": "Dogeking.com",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmWPU4RHzGxjyydoVWkqvzZUzepXvwRik5KEMMjycoZ5De",
+  "description": "This project comes from DogeKing mentioned in the program \"whether or not to return\" by Shen Teng, a famous movie star of the Chinese Spring Festival Gala. This project is a commonweal and funny project, in which the currency of 1/4 is transferred to Shen Teng and his team, and 1/4 is donated to the Spring Festival Gala. The rest is given to interested netizens until the delivery is finished. As long as you pay more than 200USDT or 0.2ETH(the transfer fee to get additional DogeKing Coins more than juicebox’s max 1ETH=1000000 DogeKing ), you can get 100 million DogeKing Coins. People who donate more get more DogeKing Coins on a pro rata basis.",
+  "twitter": "DogeKingST",
+  "discord": "",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Buy",
+  "payDisclosure": "You can get 1ETH=1,000,000 DogeKing from the juicebox , and if you pay 200USDT or 0.2ETH,you will get additional 100 Millions DogeKing Coins from official wallet. If you pay 1ETH ,you will get 500M DogeKing Coins.  Because of the juicebox’s maximum is just 1ETH=1,000,000, so you will get additional coins from official wallet of DogeKing."
+}

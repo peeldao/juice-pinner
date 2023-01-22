@@ -1,0 +1,17 @@
+{
+  "name": "Greenlight Treasury",
+  "infoUri": "studiodao.xyz",
+  "logoUri": "ipfs://QmSC2fmjGJ33wKk1A64BrfTjLMvAUD3UCvjtAAi4v5kCNX",
+  "description": "First season contributors are the true OGs at StudioDAO. Your contributions fund the first filmmaker Greenlight grants and the development of StudioDAO’s platform.",
+  "twitter": "studiodao",
+  "discord": "https://discord.gg/YxPGn9pcdr",
+  "tokens": [],
+  "version": 5,
+  "payButton": "Buy Super Ticket",
+  "payDisclosure": "BY CLICKING \"Buy a Super Ticket\" YOU ARE AGREEING TO THE TERMS OF SERVICE HOSTED HERE: https://www.studiodao.xyz/terms-of-service",
+  "nftPaymentSuccessModal": {
+    "content": "Thank you for becoming a Season 1 member!\n\nCheck your Greenlight Power by connecting to StudioDAO. ",
+    "ctaText": "Connect to StudioDAO",
+    "ctaLink": "https://studiodao.xyz"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "TheEnigmaDAO",
+  "description": "We're All Gonna Buy A Diamond And Hold It In Our Diamond Hands (💎,🤲) ",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmQZzsWKWUEYYz9MZfim1cTZ46MHfU3DtyyxM1NigvSFFh",
+  "infoUri": "https://theenigmadao.com/",
+  "twitter": "TheEnigmaDAO",
+  "discord": "https://discord.gg/EYJu3AzF",
+  "payButton": "Contribute",
+  "payDisclosure": "The tokens you receive are not fractionalized shares. They are instead a governance token for this DAO project. ",
+  "tokens": [],
+  "version": 3
+}

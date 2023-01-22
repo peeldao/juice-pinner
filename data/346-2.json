@@ -1,0 +1,10 @@
+{
+  "name": "CryptoDeleted",
+  "infoUri": "",
+  "logoUri": "ipfs://QmfQckg5iRRYestNqsJgLFkEu6gqdiMtos3g4EJKQjHawh",
+  "description": "Crypto Deleted is a bot that aims to save tweets from CT personnalities and repost them once they get deleted.\n\nFollowing recent change in the Twitter API, CryptoDeleted stopped functionning and needs a recoding, the only solution that exists will be resource incentive.",
+  "twitter": "",
+  "discord": "",
+  "tokens": [],
+  "version": 5
+}

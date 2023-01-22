@@ -1,0 +1,11 @@
+{
+  "name": "Infinite Tiles v2",
+  "description": "Infinite Tiles v2 is an on-chain implementation of the Tiles project created by the venerable @peripheralist. To learn more visit https://github.com/tankbottoms/tiles-on-chain and https://github.com/tankbottoms/tiles-wtf-gallery.",
+  "logoUri": "https://juicebox.mypinata.cloud/ipfs/bafkreic7o5eokaakmyhswryo34jjmj7qmch5lzwhzy6cxsrzej73ozgg3m",
+  "infoUri": "https://tiles.wtf/",
+  "twitter": "Tile_DAO",
+  "discord": "",
+  "payButton": "Tile",
+  "payDisclosure": "By continuing with this payment you acknowledge you agree to the terms of sale - https://tiles.wtf/tos and the guiding principal - https://tiles.wtf/gp.",
+  "version": 4
+}

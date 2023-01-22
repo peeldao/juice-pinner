@@ -1,0 +1,11 @@
+{
+  "name": "jokedao",
+  "description": "jokedao enables bottom-up, on-chain governance, letting token-holders both submit options and vote on them, which can be used for for user-generated roadmaps, grants, endorsements, bounties, curation, and community-driven decisions. (In a way, it's both an alternative to Snapshot and an heir to the Mirror Write Race.) Our proof of concept is the weekly \"jokerace,\" where teams work against each other to try to vote for the #2 joke of the week, which we mint as an NFT as a kind of ongoing crowdfund. This project is an ingress point for grants and other contributions that supporters would like to make. The tokens minted by contributing to this project will have no monetary value, they will effectively be POAPs to show that you're an original jokedao supporter.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmNftWvNqJ2E1BUsz1rKjrvthyCgHAQcS4JuedzZhsQGEN",
+  "infoUri": "https://jokedao.io/",
+  "twitter": "jokedao_",
+  "discord": "https://t.co/CymeNDo6Qm",
+  "payButton": "Support",
+  "payDisclosure": "The tokens minted by contributing to this project will have no monetary value, they will effectively be POAPs to show that you're an original jokedao supporter.",
+  "version": 4
+}

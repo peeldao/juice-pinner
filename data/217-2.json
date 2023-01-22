@@ -1,0 +1,11 @@
+{
+  "name": "Pledgr",
+  "description": "A future project for Web3 degens to automate and flex their donations.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZhEivjTJFUmjG1Lnhfhm9GH17uVJY2CJaS6UfXj7jkB9",
+  "infoUri": "",
+  "twitter": "johnnyd_eth",
+  "discord": "",
+  "payButton": "Pledge",
+  "payDisclosure": "You are a beast.",
+  "version": 4
+}

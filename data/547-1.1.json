@@ -1,0 +1,12 @@
+{
+  "name": "Peace DAO",
+  "infoUri": "",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qmc8kRiudzaB8CbXfy1LovM47EhqVF3YHM6shYtjSBL4tC",
+  "description": "The funds will go to bid on the Nobel peace prize on auction donated by the recipient Dmitry Muratov to the Ukrainian Refugee Fund. We can keeo 10% or so for funding DAO treasury but this is, of course, up for debate.",
+  "twitter": "nobelpeacedao",
+  "discord": "https://discord.gg/D8KHr3t4",
+  "tokens": [],
+  "version": 4,
+  "payButton": "Donate",
+  "payDisclosure": "You will have the option of a full refund if the bid is lost."
+}

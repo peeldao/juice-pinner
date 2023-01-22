@@ -1,0 +1,15 @@
+{
+  "name": "Plutus HongKongSME fund DAO - v1 Anchor investment",
+  "infoUri": "",
+  "logoUri": "ipfs://QmdZiDTcdNo44h6Vo9R1ykYcZXhFQCz5c1PvYntSye3713",
+  "description": "This DAO pursues a reasonable mid-term return and stable annual passive income. \n\nThis DAO invests primarily in the equity financing of small to medium-sized companies in HKSAR, selected via financial reporting analysis & BNI-Greenlight systems. This DAO reserves 20% capital pool to repurchase and stake ETH & JBX for conservatively supporting community growth. \n\nPurchase decisions will be voted before execution.  \n\nRisk of capital loss & cyber security will be assured via purchasing insurance in the HKSAR market. \n\nSince this DAO is created as an Anchor investment for the project Plutus Hong Kong SME DAO fund, this target amount is only 25% of the total target fundraising. A total of 4 fundraisings will be held here. ",
+  "twitter": "",
+  "discord": "https://discord.gg/mTFqrF9R",
+  "tokens": [],
+  "nftPaymentSuccessModal": {
+    "content": ""
+  },
+  "version": 5,
+  "payButton": "Create Your Passive Income Here",
+  "payDisclosure": "2% of pool capital will be used for the cost of website creation, auditing & marketing use. \n\nThis DAO is exposed to risks related to equity, concentration, smaller companies, cryptocurrency, liquidity, and class currency.\n\nInvestors should not solely rely on this document to make any investment decision."
+}

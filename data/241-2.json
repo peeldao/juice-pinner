@@ -1,0 +1,11 @@
+{
+  "name": "Safuchain",
+  "description": "Same blockchain, more safety.\nUniswap: September 21, 5pm UTC, 2022\n\nWhitepaper: https://safuchain.net/SafuchainLitepaperV2.pdf\n\nSafe protocols built into chain, to protect investors from common day skems, and raccoon bottom feeder devs alike. DAO controls the level of centralization Safuchain holds. \n\nSafuchain is built upon the Polygon network as a layer 2 for Ethereum. Ran as a Polygon EVM - Ethereum Virtual Machine. ERC20, ERC721, Staking, Yield Farming, Gaming, Defi with 1000x Faster Speed, 100th the Transaction Fees, and safety built in!  \n\nSafuchain is built with three key principles in mind: \n\n1. Safety \n2. Ease-Of-Access\n3. Retention of Investors \n\nGovernance is live on September 20th, 2022, once you claim tokens from Juicebox, head on over to  guild.xyz/SafuChain to join your new community.",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmZh4N7mpwJv9wRUffy9P4bc35k4DuzCRkmLD1fSYUKzpA",
+  "infoUri": "safuchain.live",
+  "twitter": "RealSafuChain",
+  "discord": "https://t.me/SafuChain",
+  "payButton": "Claim $SAFU",
+  "payDisclosure": "",
+  "version": 4
+}

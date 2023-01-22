@@ -1,0 +1,12 @@
+{
+  "name": "BaoHuDAO",
+  "description": "In 2022, we will give all the raised funds to one of the lucky lottery winners so as to help everyone get rich!",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmbTe6PgicQksMpDAetLM5Vto72rH6pqkAabgKZScBTV16",
+  "infoUri": "https://baohudao.com",
+  "twitter": "BaoHuDAO",
+  "discord": "https://discord.com/invite/UqAbSf6cr9",
+  "payButton": "",
+  "payDisclosure": "Please Checked the \"Receive ERC20\" option, to able to claim BaoHu NFT on website (https://baohudao.com) ",
+  "tokens": [],
+  "version": 3
+}

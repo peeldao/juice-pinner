@@ -1,0 +1,12 @@
+{
+  "name": "TongaDAO",
+  "infoUri": "https://tongadao.gw.to",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/Qmb67div8aiYycGFpzNaWgQY3DXGqrQp2tG8rgLGitrZM3",
+  "description": "In order to support the Tongan people who suffered from the volcanic eruption and tsunami, we decided to launch this fundraiser, and all donations will be donated to the World Organization of the Red Cross to help the people of Tonga get through this difficult time.",
+  "twitter": "tonga_dao",
+  "discord": "https://discord.gg/57RrmJk78p",
+  "tokens": [],
+  "version": 3,
+  "payButton": "donate",
+  "payDisclosure": "\nThank you for your donation,we are the world!"
+}

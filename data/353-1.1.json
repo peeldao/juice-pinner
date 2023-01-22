@@ -1,0 +1,12 @@
+{
+  "name": "Budapest Capital DAO",
+  "infoUri": "https://budapest.capital",
+  "logoUri": "https://jbx.mypinata.cloud/ipfs/QmbTKRr19h7HTW3bqGjJgGFus9YBA522vekdPPUk8h4YUQ",
+  "description": "Invest in Real Estate to Earn Monthly Distributed Passive Income. Be Involved in the Investment Decisions by Voting Using $BDPST governance token (like a share in a publicly traded company).",
+  "twitter": "BudapestCapital",
+  "discord": "https://discord.gg/spTrWJX3Rg",
+  "tokens": [],
+  "version": 3,
+  "payButton": "Invest",
+  "payDisclosure": "BudapestCapitalDAO is a collective to be governed by the $BDPST holders. We take no liability for losses in connection with your participation in the BudapestCapitalDAO. You are responsible for your own decisions and actions."
+}
