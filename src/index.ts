@@ -63,20 +63,29 @@ async function pinProject(project: Project) {
 
   try {
     const metadata = await getMetadata(project);
-    const pinMetadata = await pinFile(JSON.stringify(metadata));
-    console.log(
-      "Metadata valid:",
-      pinMetadata.data.Hash === project.metadataUri ? "✅" : "❌"
-    );
 
-    const logo = metadata.logoUri;
-    if (!logo) return;
+    const logo = metadata.logoUri ?? "";
 
-    console.log("pinning logo", logo);
-    const logoHash = metadata.logoUri.startsWith("ipfs://")
+    const logoHash = logo.startsWith("ipfs://")
       ? logo.split("ipfs://")[1]
       : logo.split("ipfs/")[1];
-    await pin(logoHash);
+
+    const [pinMetadata, logoSuccess] = await Promise.all([
+      pinFile(JSON.stringify(metadata)).catch((e) => false),
+      logoHash
+        ? pin(logoHash)
+            .then(() => true)
+            .catch(() => false)
+        : Promise.resolve(true),
+    ]);
+
+    console.log(
+      "\tMetadata valid:",
+      pinMetadata && (pinMetadata as any).data.Hash === project.metadataUri
+        ? "✅"
+        : "❌"
+    );
+    console.log("\tLogo success:", logoSuccess ? "✅" : `❌ ${logoHash}`);
   } catch (e) {
     console.error((e as any).response?.data ?? e);
   }
