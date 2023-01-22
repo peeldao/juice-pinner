@@ -65,7 +65,6 @@ async function pinProject(project: Project) {
     const metadata = await getMetadata(project);
 
     const logo = metadata.logoUri ?? "";
-
     const logoHash = logo.startsWith("ipfs://")
       ? logo.split("ipfs://")[1]
       : logo.split("ipfs/")[1];
@@ -101,4 +100,50 @@ async function run() {
   }, Promise.resolve());
 }
 
-run();
+async function validateProject(project: Project) {
+  console.log("validating project ID", project.projectId, project.metadataUri);
+
+  try {
+    const metadata = await getMetadata(project);
+
+    const logo = metadata.logoUri ?? "";
+    const logoHash = logo.startsWith("ipfs://")
+      ? logo.split("ipfs://")[1]
+      : logo.split("ipfs/")[1];
+
+    const [pinMetadata, logoSuccess] = await Promise.all([
+      axios
+        .get(`https://jbm.infura-ipfs.io/ipfs/${project.metadataUri}`)
+        .catch((e) => false),
+      logoHash
+        ? axios
+            .get(`https://jbm.infura-ipfs.io/ipfs/${logoHash}`)
+            .then(() => true)
+            .catch(() => false)
+        : Promise.resolve(true),
+    ]);
+
+    console.log(
+      "\tMetadata exists:",
+      pinMetadata && (pinMetadata as any).data.name === metadata.name
+        ? "✅"
+        : "❌"
+    );
+    console.log("\tLogo exists:", logoSuccess ? "✅" : `❌ ${logoHash}`);
+  } catch (e) {
+    console.error((e as any).response?.data ?? e);
+  }
+}
+
+async function validate() {
+  const { projects } = await listProjects();
+
+  console.log(projects.length, "projects...");
+
+  projects.reduce(async (fn, project: Project) => {
+    return fn.then(() => validateProject(project));
+  }, Promise.resolve());
+}
+
+// run();
+validate();
